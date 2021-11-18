@@ -98,8 +98,11 @@ int main(int argc, char *argv[])
 	float gyroZangle = 0.0;
 	float AccYangle = 0.0;
 	float AccXangle = 0.0;
-	float CFangleX = 0.0;
-	float CFangleY = 0.0;
+	float roll = 0.0;
+	float pitch = 0.0;
+	float yaw = 0.0;
+	float mag_y = 0.0;
+	float mag_x = 0.0;
 
 	int startInt  = mymillis();
 	struct  timeval tvBegin, tvEnd,tvDiff;
@@ -121,6 +124,7 @@ int main(int argc, char *argv[])
 		//read ACC and GYR data
 		readACC(accRaw);
 		readGYR(gyrRaw);
+		readMAG(magRaw); // magRaw[0] -> x; [1] -> y; [2] -> z
 
 		//Convert Gyro raw to degrees per second
 		rate_gyr_x = (float) gyrRaw[0]  * G_GAIN;
@@ -162,11 +166,18 @@ int main(int argc, char *argv[])
 
 
 		//Complementary filter used to combine the accelerometer and gyro values.
-		CFangleX=AA*(CFangleX+rate_gyr_x*DT) +(1 - AA) * AccXangle;
-		CFangleY=AA*(CFangleY+rate_gyr_y*DT) +(1 - AA) * AccYangle;
+		roll=AA*(roll+rate_gyr_x*DT) +(1 - AA) * AccXangle; // roll
+		pitch=AA*(pitch+rate_gyr_y*DT) +(1 - AA) * AccYangle; // pitch
+		
+		mag_x = magRaw[0]*cos(pitch) + magRaw[1]*sin(roll)*sin(pitch) + magRaw[2]*cos(roll)*sin(pitch);
+		mag_y = magRaw[1]*cos(roll) - magRaw[2]*sin(roll);
+		yaw = (float) (180 * atan2 (-mag_y,mag_x)/M_PI); //yaw
 
 
-		//printf ("   GyroX  %7.3f \t AccXangle \e[m %7.3f \t \033[22;31mCFangleX %7.3f\033[0m\t GyroY  %7.3f \t AccYangle %7.3f \t \033[22;36mCFangleY %7.3f\t\033[0m\n",gyroXangle,AccXangle,CFangleX,gyroYangle,AccYangle,CFangleY);
+		printf ("roll: %f", roll);
+		printf ("pitch: %f", pitch);
+		printf	("yaw: %f", yaw);
+		printf ("\n");
 		
 		char* current_time = time_stamp();
 		
@@ -211,15 +222,15 @@ int main(int argc, char *argv[])
 		
 		fputs(str_ay, fPtr);
 		
-		char str_cx[sizeof CFangleX + 1];
-		sprintf(str_cx, "CFangleX: %f", CFangleX);
+		char str_cx[sizeof roll + 1];
+		sprintf(str_cx, "CFangleX: %f", roll);
 		
 		strcat(str_cx, " ");
 		
 		fputs(str_cx, fPtr);
 		
-		char str_cy[sizeof CFangleY + 1];
-		sprintf(str_cy, "CFangleY: %f", CFangleY);
+		char str_cy[sizeof pitch + 1];
+		sprintf(str_cy, "CFangleY: %f", pitch);
 		
 		strcat(str_cy, "\n");
 		
