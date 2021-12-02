@@ -65,9 +65,13 @@ time_t ltime;
 ltime=time(NULL);
 struct tm *tm;
 tm=localtime(&ltime);
+struct timeval stop, start;
+gettimeofday(&start, NULL);
+		//do stuff
+gettimeofday(&stop, NULL);
 
-sprintf(timestamp, "%04d%02d%02d%02d%02d%02d",tm->tm_year+1900, tm->tm_mon, 
-    tm->tm_mday, tm->tm_hour, tm->tm_min, tm->tm_sec);  
+sprintf(timestamp, "%04d%02d%02d%02d%02d%02d%lu",tm->tm_year+1900, tm->tm_mon+1, 
+    tm->tm_mday, tm->tm_hour, tm->tm_min, tm->tm_sec, start.tv_usec/1000);  
 
 return timestamp;
 }
@@ -174,10 +178,10 @@ int main(int argc, char *argv[])
 		yaw = (float) (180 * atan2 (-mag_y,mag_x)/M_PI); //yaw
 
 
-		printf ("roll: %f", roll);
+		/*printf ("roll: %f", roll);
 		printf ("pitch: %f", pitch);
 		printf	("yaw: %f", yaw);
-		printf ("\n");
+		printf ("\n");*/
 		
 		char* current_time = time_stamp();
 		
@@ -187,55 +191,28 @@ int main(int argc, char *argv[])
 		
 		fputs(current_time, fPtr);
 		
-		char str_gx[sizeof gyroXangle + 1];
-		sprintf(str_gx, "gyroXangle: %f", gyroXangle);
-		
-		strcat(str_gx, " ");
-		
-		fputs(str_gx, fPtr);
-		
-		char str_gy[sizeof gyroYangle + 1];
-		sprintf(str_gy, "gyroYangle: %f", gyroYangle);
-		
-		strcat(str_gy, " ");
-		
-		fputs(str_gy, fPtr);
-		
-		char str_gz[sizeof gyroZangle + 1];
-		sprintf(str_gz, "gyroZangle: %f", gyroZangle);
-		
-		strcat(str_gz, " ");
-
-		fputs(str_gz, fPtr);
-		
-		char str_ax[sizeof AccXangle + 1];
-		sprintf(str_ax, "AccXangle: %f", AccXangle);
-		
-		strcat(str_ax, " ");
-		
-		fputs(str_ax, fPtr);
-		
-		char str_ay[sizeof AccYangle + 1];
-		sprintf(str_ay, "AccYangle: %f", AccYangle);
-		
-		strcat(str_ay, " ");
-		
-		fputs(str_ay, fPtr);
-		
 		char str_cx[sizeof roll + 1];
-		sprintf(str_cx, "CFangleX: %f", roll);
+		sprintf(str_cx, "roll: %f", roll);
 		
 		strcat(str_cx, " ");
 		
 		fputs(str_cx, fPtr);
 		
 		char str_cy[sizeof pitch + 1];
-		sprintf(str_cy, "CFangleY: %f", pitch);
+		sprintf(str_cy, "pitch: %f", pitch);
+		
+		strcat(str_cy, " ");
+		
+		fputs(str_cy, fPtr);
+		
+		char str_cz[sizeof yaw + 1];
+		sprintf(str_cy, "yaw: %f", yaw);
 		
 		strcat(str_cy, "\n");
 		
 		fputs(str_cy, fPtr);
 		
+		//printf("millis %f", mymillis() - startInt < (DT*1000));
 		
 		//Each loop should be at least 20ms.
 		while(mymillis() - startInt < (DT*1000)){
@@ -243,6 +220,8 @@ int main(int argc, char *argv[])
 		}
 
 		//printf("Loop Time %d\t", mymillis()- startInt);
+		
+		//printf("took %lu us\n", start.tv_usec/1000); 
     }
     
 		
