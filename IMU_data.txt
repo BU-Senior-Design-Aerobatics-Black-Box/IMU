@@ -1,115 +1,1069 @@
-20211012013111 gyroXangle: 0.025200 gyroYangle: -0.085400 gyroZangle: -0.033600 AccXangle: -0.202988 AccYangle: 0.906586 CFangleX: 0.018354 CFangleY: -0.055640
-20211012013111 gyroXangle: 0.046200 gyroYangle: -0.162400 gyroZangle: -0.064400 AccXangle: -0.148605 AccYangle: 0.918610 CFangleX: 0.033716 CFangleY: -0.101103
-20211012013111 gyroXangle: 0.056000 gyroYangle: -0.232400 gyroZangle: -0.110600 AccXangle: -0.311157 AccYangle: 0.906372 CFangleX: 0.032875 CFangleY: -0.138779
-20211012013111 gyroXangle: 0.057400 gyroYangle: -0.287000 gyroZangle: -0.201600 AccXangle: -0.121902 AccYangle: 0.893921 CFangleX: 0.029590 CFangleY: -0.160760
-20211012013111 gyroXangle: 0.058800 gyroYangle: -0.369600 gyroZangle: -0.267400 AccXangle: -0.283371 AccYangle: 0.904022 CFangleX: 0.021559 CFangleY: -0.208938
-20211012013111 gyroXangle: 0.050400 gyroYangle: -0.502600 gyroZangle: -0.236600 AccXangle: -0.190262 AccYangle: 0.992004 CFangleX: 0.007057 CFangleY: -0.301920
-20211012013111 gyroXangle: 0.036400 gyroYangle: -0.603400 gyroZangle: -0.235200 AccXangle: -0.135330 AccYangle: 0.906586 CFangleX: -0.010795 CFangleY: -0.363441
-20211012013111 gyroXangle: 0.039200 gyroYangle: -0.750400 gyroZangle: -0.243600 AccXangle: -0.311462 AccYangle: 0.893707 CFangleX: -0.017099 CFangleY: -0.468316
-20211012013111 gyroXangle: 0.019600 gyroYangle: -0.858200 gyroZangle: -0.247800 AccXangle: -0.230270 AccYangle: 0.704315 CFangleX: -0.042506 CFangleY: -0.537703
-20211012013111 gyroXangle: 0.025200 gyroYangle: -0.876400 gyroZangle: -0.285600 AccXangle: -0.284302 AccYangle: 0.879944 CFangleX: -0.044328 CFangleY: -0.512828
-20211012013111 gyroXangle: 0.026600 gyroYangle: -1.024800 gyroZangle: -0.301000 AccXangle: -0.230042 AccYangle: 1.028351 CFangleX: -0.048541 CFangleY: -0.610541
-20211012013111 gyroXangle: 0.040600 gyroYangle: -1.170400 gyroZangle: -0.362600 AccXangle: -0.189621 AccYangle: 1.097015 CFangleX: -0.039194 CFangleY: -0.700546
-20211012013111 gyroXangle: 0.065800 gyroYangle: -1.282400 gyroZangle: -0.392000 AccXangle: -0.311539 AccYangle: 0.866821 CFangleX: -0.022920 CFangleY: -0.762165
-20211012013111 gyroXangle: 0.064400 gyroYangle: -1.393000 gyroZangle: -0.403200 AccXangle: -0.175781 AccYangle: 0.716675 CFangleX: -0.028864 CFangleY: -0.825082
-20211012013111 gyroXangle: 0.089600 gyroYangle: -1.520400 gyroZangle: -0.436800 AccXangle: -0.229279 AccYangle: 0.876648 CFangleX: -0.010432 CFangleY: -0.897608
-20211012013111 gyroXangle: 0.075600 gyroYangle: -1.607200 gyroZangle: -0.490000 AccXangle: -0.189804 AccYangle: 0.976105 CFangleX: -0.029394 CFangleY: -0.925592
-20211012013111 gyroXangle: 0.067200 gyroYangle: -1.708000 gyroZangle: -0.569800 AccXangle: -0.256516 AccYangle: 0.877472 CFangleX: -0.044355 CFangleY: -0.969277
-20211012013111 gyroXangle: 0.058800 gyroYangle: -1.772400 gyroZangle: -0.645400 AccXangle: -0.243286 AccYangle: 0.824432 CFangleX: -0.058471 CFangleY: -0.977933
-20211012013111 gyroXangle: 0.057400 gyroYangle: -1.890000 gyroZangle: -0.676200 AccXangle: -0.216156 AccYangle: 0.891602 CFangleX: -0.064560 CFangleY: -1.035919
-20211012013111 gyroXangle: 0.056000 gyroYangle: -2.076200 gyroZangle: -0.709800 AccXangle: -0.324463 AccYangle: 0.973297 CFangleX: -0.073715 CFangleY: -1.156257
-20211012013111 gyroXangle: 0.042000 gyroYangle: -2.231600 gyroZangle: -0.775600 AccXangle: -0.121902 AccYangle: 0.799103 CFangleX: -0.088740 CFangleY: -1.248334
-20211012013111 gyroXangle: 0.054600 gyroYangle: -2.364600 gyroZangle: -0.833000 AccXangle: -0.229660 AccYangle: 0.864563 CFangleX: -0.080746 CFangleY: -1.313957
-20211012013111 gyroXangle: 0.077000 gyroYangle: -2.496200 gyroZangle: -0.901600 AccXangle: -0.175049 AccYangle: 0.902100 CFangleX: -0.061847 CFangleY: -1.375127
-20211012013111 gyroXangle: 0.064400 gyroYangle: -2.598400 gyroZangle: -0.947800 AccXangle: -0.148666 AccYangle: 1.027130 CFangleX: -0.076674 CFangleY: -1.402194
-20211012013112 gyroXangle: 0.054600 gyroYangle: -2.707600 gyroZangle: -0.961800 AccXangle: -0.189056 AccYangle: 0.796661 CFangleX: -0.089551 CFangleY: -1.442152
-20211012013112 gyroXangle: 0.057400 gyroYangle: -2.807000 gyroZangle: -0.964600 AccXangle: -0.256638 AccYangle: 0.945374 CFangleX: -0.091848 CFangleY: -1.466944
-20211012013112 gyroXangle: 0.051800 gyroYangle: -2.963800 gyroZangle: -0.953400 AccXangle: -0.122070 AccYangle: 0.895172 CFangleX: -0.098186 CFangleY: -1.548177
-20211012013112 gyroXangle: 0.042000 gyroYangle: -3.103800 gyroZangle: -1.022000 AccXangle: -0.243469 AccYangle: 0.973755 CFangleX: -0.112051 CFangleY: -1.608319
-20211012013112 gyroXangle: 0.036400 gyroYangle: -3.263400 gyroZangle: -1.059800 AccXangle: -0.135284 AccYangle: 0.865784 CFangleX: -0.118180 CFangleY: -1.688908
-20211012013112 gyroXangle: 0.065800 gyroYangle: -3.362800 gyroZangle: -1.117200 AccXangle: -0.230377 AccYangle: 0.934967 CFangleX: -0.093028 CFangleY: -1.706609
-20211012013112 gyroXangle: 0.086800 gyroYangle: -3.463600 gyroZangle: -1.163400 AccXangle: -0.323547 AccYangle: 0.768402 CFangleX: -0.079573 CFangleY: -1.730135
-20211012013112 gyroXangle: 0.065800 gyroYangle: -3.605000 gyroZangle: -1.197000 AccXangle: -0.162308 AccYangle: 0.852081 CFangleX: -0.102425 CFangleY: -1.789827
-20211012013112 gyroXangle: 0.078400 gyroYangle: -3.703000 gyroZangle: -1.274000 AccXangle: -0.230103 AccYangle: 0.974457 CFangleX: -0.094034 CFangleY: -1.801958
-20211012013112 gyroXangle: 0.068600 gyroYangle: -3.803800 gyroZangle: -1.331400 AccXangle: -0.284164 AccYangle: 0.920105 CFangleX: -0.109244 CFangleY: -1.818072
-20211012013112 gyroXangle: 0.078400 gyroYangle: -3.900400 gyroZangle: -1.365000 AccXangle: -0.081116 AccYangle: 0.865204 CFangleX: -0.098894 CFangleY: -1.831276
-20211012013112 gyroXangle: 0.072800 gyroYangle: -4.093600 gyroZangle: -1.426600 AccXangle: -0.040665 AccYangle: 0.867432 CFangleX: -0.102579 CFangleY: -1.937719
-20211012013112 gyroXangle: 0.079800 gyroYangle: -4.225200 gyroZangle: -1.477000 AccXangle: -0.257233 AccYangle: 0.852875 CFangleX: -0.100429 CFangleY: -1.981653
-20211012013112 gyroXangle: 0.089600 gyroYangle: -4.326000 gyroZangle: -1.496600 AccXangle: -0.271149 AccYangle: 0.881195 CFangleX: -0.096044 CFangleY: -1.993543
-20211012013112 gyroXangle: 0.098000 gyroYangle: -4.414200 gyroZangle: -1.499400 AccXangle: -0.256638 AccYangle: 0.904907 CFangleX: -0.092714 CFangleY: -1.992144
-20211012013112 gyroXangle: 0.100800 gyroYangle: -4.501000 gyroZangle: -1.523200 AccXangle: -0.162582 AccYangle: 0.907654 CFangleX: -0.092094 CFangleY: -1.989346
-20211012013112 gyroXangle: 0.103600 gyroYangle: -4.601800 gyroZangle: -1.569400 AccXangle: -0.216614 AccYangle: 0.893463 CFangleX: -0.093114 CFangleY: -2.000638
-20211012013112 gyroXangle: 0.086800 gyroYangle: -4.732000 gyroZangle: -1.587600 AccXangle: -0.256439 AccYangle: 0.917725 CFangleX: -0.114309 CFangleY: -2.039381
-20211012013112 gyroXangle: 0.092400 gyroYangle: -4.900001 gyroZangle: -1.647800 AccXangle: -0.230042 AccYangle: 0.866028 CFangleX: -0.112349 CFangleY: -2.115179
-20211012013112 gyroXangle: 0.095200 gyroYangle: -4.996601 gyroZangle: -1.696800 AccXangle: -0.121552 AccYangle: 0.850891 CFangleX: -0.109909 CFangleY: -2.119899
-20211012013112 gyroXangle: 0.100800 gyroYangle: -5.167401 gyroZangle: -1.723400 AccXangle: -0.148819 AccYangle: 0.838745 CFangleX: -0.105645 CFangleY: -2.196815
-20211012013112 gyroXangle: 0.068600 gyroYangle: -5.259801 gyroZangle: -1.750000 AccXangle: -0.324615 AccYangle: 0.743896 CFangleX: -0.143448 CFangleY: -2.198222
-20211012013112 gyroXangle: 0.089600 gyroYangle: -5.404001 gyroZangle: -1.759800 AccXangle: -0.243408 AccYangle: 0.784271 CFangleX: -0.126077 CFangleY: -2.248621
-20211012013112 gyroXangle: 0.086800 gyroYangle: -5.562201 gyroZangle: -1.793400 AccXangle: -0.229828 AccYangle: 0.892212 CFangleX: -0.131905 CFangleY: -2.307850
-20211012013112 gyroXangle: 0.077000 gyroYangle: -5.657401 gyroZangle: -1.843800 AccXangle: -0.216217 AccYangle: 0.702637 CFangleX: -0.143941 CFangleY: -2.309880
-20211012013112 gyroXangle: 0.078400 gyroYangle: -5.747001 gyroZangle: -1.894200 AccXangle: -0.013519 AccYangle: 0.878510 CFangleX: -0.138670 CFangleY: -2.301140
-20211012013112 gyroXangle: 0.072800 gyroYangle: -5.791800 gyroZangle: -1.932000 AccXangle: -0.229996 AccYangle: 0.987549 CFangleX: -0.146842 CFangleY: -2.245935
-20211012013112 gyroXangle: 0.063000 gyroYangle: -5.866001 gyroZangle: -1.932000 AccXangle: -0.284103 AccYangle: 1.055145 CFangleX: -0.160466 CFangleY: -2.218877
-20211012013112 gyroXangle: 0.072800 gyroYangle: -6.018600 gyroZangle: -1.943200 AccXangle: -0.202789 AccYangle: 0.946289 CFangleX: -0.152229 CFangleY: -2.271944
-20211012013112 gyroXangle: 0.049000 gyroYangle: -6.155800 gyroZangle: -1.947400 AccXangle: -0.162155 AccYangle: 0.783722 CFangleX: -0.175613 CFangleY: -2.313358
-20211012013112 gyroXangle: 0.026600 gyroYangle: -6.322401 gyroZangle: -1.958600 AccXangle: -0.229782 AccYangle: 0.797424 CFangleX: -0.198966 CFangleY: -2.381636
-20211012013112 gyroXangle: 0.014000 gyroYangle: -6.378401 gyroZangle: -1.993600 AccXangle: -0.310287 AccYangle: 0.930786 CFangleX: -0.214528 CFangleY: -2.336584
-20211012013112 gyroXangle: 0.011200 gyroYangle: -6.473601 gyroZangle: -2.011800 AccXangle: -0.203033 AccYangle: 0.839142 CFangleX: -0.216899 CFangleY: -2.333656
-20211012013112 gyroXangle: -0.005600 gyroYangle: -6.588401 gyroZangle: -2.020200 AccXangle: -0.297485 AccYangle: 0.987061 CFangleX: -0.235613 CFangleY: -2.345390
-20211012013112 gyroXangle: -0.007000 gyroYangle: -6.679401 gyroZangle: -2.016000 AccXangle: -0.216415 AccYangle: 0.811523 CFangleX: -0.236395 CFangleY: -2.338953
-20211012013112 gyroXangle: -0.021000 gyroYangle: -6.805401 gyroZangle: -1.978200 AccXangle: -0.162430 AccYangle: 0.785004 CFangleX: -0.247756 CFangleY: -2.367454
-20211012013112 gyroXangle: -0.002800 gyroYangle: -6.932801 gyroZangle: -1.967000 AccXangle: -0.202606 AccYangle: 0.864380 CFangleX: -0.228747 CFangleY: -2.394077
-20211012013112 gyroXangle: -0.043400 gyroYangle: -7.074201 gyroZangle: -2.017400 AccXangle: -0.148788 AccYangle: 0.933197 CFangleX: -0.265730 CFangleY: -2.431417
-20211012013112 gyroXangle: -0.033600 gyroYangle: -7.170801 gyroZangle: -2.066400 AccXangle: -0.216476 AccYangle: 0.892853 CFangleX: -0.254747 CFangleY: -2.425391
-20211012013112 gyroXangle: -0.043400 gyroYangle: -7.278601 gyroZangle: -2.088800 AccXangle: -0.162354 AccYangle: 0.879333 CFangleX: -0.261481 CFangleY: -2.430815
-20211012013112 gyroXangle: -0.039200 gyroYangle: -7.330400 gyroZangle: -2.119600 AccXangle: -0.379257 AccYangle: 0.839722 CFangleX: -0.260940 CFangleY: -2.382945
-20211012013112 gyroXangle: -0.036400 gyroYangle: -7.471800 gyroZangle: -2.158800 AccXangle: -0.202896 AccYangle: 0.757416 CFangleX: -0.256483 CFangleY: -2.425892
-20211012013112 gyroXangle: -0.040600 gyroYangle: -7.505400 gyroZangle: -2.177000 AccXangle: -0.297211 AccYangle: 0.810547 CFangleX: -0.261779 CFangleY: -2.361391
-20211012013112 gyroXangle: -0.037800 gyroYangle: -7.625800 gyroZangle: -2.207800 AccXangle: -0.189407 AccYangle: 0.919891 CFangleX: -0.256892 CFangleY: -2.379740
-20211012013112 gyroXangle: -0.040600 gyroYangle: -7.693000 gyroZangle: -2.238600 AccXangle: -0.243637 AccYangle: 0.893280 CFangleX: -0.259210 CFangleY: -2.346734
-20211012013112 gyroXangle: -0.042000 gyroYangle: -7.819000 gyroZangle: -2.287600 AccXangle: -0.094498 AccYangle: 0.769501 CFangleX: -0.255627 CFangleY: -2.375467
-20211012013112 gyroXangle: -0.018200 gyroYangle: -7.926800 gyroZangle: -2.317000 AccXangle: -0.162354 AccYangle: 0.919891 CFangleX: -0.229742 CFangleY: -2.381172
-20211012013112 gyroXangle: -0.023800 gyroYangle: -8.057000 gyroZangle: -2.352000 AccXangle: -0.243988 AccYangle: 0.894531 CFangleX: -0.235602 CFangleY: -2.409195
-20211012013112 gyroXangle: -0.022400 gyroYangle: -8.155000 gyroZangle: -2.394000 AccXangle: -0.108383 AccYangle: 0.839935 CFangleX: -0.230427 CFangleY: -2.406781
-20211012013112 gyroXangle: -0.036400 gyroYangle: -8.251599 gyroZangle: -2.433200 AccXangle: -0.283630 AccYangle: 0.877869 CFangleX: -0.245603 CFangleY: -2.401944
-20211012013113 gyroXangle: -0.029400 gyroYangle: -8.363600 gyroZangle: -2.464000 AccXangle: -0.203278 AccYangle: 0.826599 CFangleX: -0.237544 CFangleY: -2.413727
-20211012013113 gyroXangle: -0.022400 gyroYangle: -8.498000 gyroZangle: -2.466800 AccXangle: -0.229782 AccYangle: 0.810944 CFangleX: -0.230521 CFangleY: -2.447355
-20211012013113 gyroXangle: -0.004200 gyroYangle: -8.568000 gyroZangle: -2.500401 AccXangle: -0.230377 AccYangle: 0.989136 CFangleX: -0.212862 CFangleY: -2.412161
-20211012013113 gyroXangle: 0.012600 gyroYangle: -8.563800 gyroZangle: -2.542401 AccXangle: -0.243698 AccYangle: 0.785187 CFangleX: -0.197491 CFangleY: -2.312166
-20211012013113 gyroXangle: 0.037800 gyroYangle: -8.635200 gyroZangle: -2.577401 AccXangle: -0.338226 AccYangle: 0.717010 CFangleX: -0.177270 CFangleY: -2.290549
-20211012013113 gyroXangle: 0.047600 gyroYangle: -8.670199 gyroZangle: -2.605401 AccXangle: -0.283981 AccYangle: 0.838348 CFangleX: -0.170965 CFangleY: -2.230632
-20211012013113 gyroXangle: 0.053200 gyroYangle: -8.721999 gyroZangle: -2.647401 AccXangle: -0.284103 AccYangle: 0.933411 CFangleX: -0.168927 CFangleY: -2.185956
-20211012013113 gyroXangle: 0.058800 gyroYangle: -8.870399 gyroZangle: -2.716001 AccXangle: -0.135452 AccYangle: 0.893921 CFangleX: -0.162491 CFangleY: -2.237508
-20211012013113 gyroXangle: 0.081200 gyroYangle: -8.992200 gyroZangle: -2.787401 AccXangle: -0.148926 AccYangle: 0.907013 CFangleX: -0.140356 CFangleY: -2.261318
-20211012013113 gyroXangle: 0.102200 gyroYangle: -9.070600 gyroZangle: -2.839201 AccXangle: -0.230042 AccYangle: 0.798370 CFangleX: -0.122676 CFangleY: -2.245576
-20211012013113 gyroXangle: 0.117600 gyroYangle: -9.162999 gyroZangle: -2.907801 AccXangle: -0.189453 AccYangle: 0.825409 CFangleX: -0.109742 CFangleY: -2.243074
-20211012013113 gyroXangle: 0.103600 gyroYangle: -9.270799 gyroZangle: -2.956801 AccXangle: -0.297211 AccYangle: 0.837555 CFangleX: -0.128946 CFangleY: -2.255221
-20211012013113 gyroXangle: 0.093800 gyroYangle: -9.356198 gyroZangle: -2.945601 AccXangle: -0.257782 AccYangle: 1.003906 CFangleX: -0.142317 CFangleY: -2.240286
-20211012013113 gyroXangle: 0.092400 gyroYangle: -9.430398 gyroZangle: -2.987601 AccXangle: -0.216476 AccYangle: 0.825226 CFangleX: -0.145900 CFangleY: -2.220294
-20211012013113 gyroXangle: 0.079800 gyroYangle: -9.500398 gyroZangle: -3.022601 AccXangle: -0.081146 AccYangle: 1.014343 CFangleX: -0.156179 CFangleY: -2.191155
-20211012013113 gyroXangle: 0.070000 gyroYangle: -9.630598 gyroZangle: -3.014201 AccXangle: -0.229828 AccYangle: 0.959808 CFangleX: -0.167895 CFangleY: -2.222920
-20211012013113 gyroXangle: 0.056000 gyroYangle: -9.766398 gyroZangle: -2.998801 AccXangle: -0.162689 AccYangle: 0.813416 CFangleX: -0.181318 CFangleY: -2.263556
-20211012013113 gyroXangle: 0.053200 gyroYangle: -9.896599 gyroZangle: -3.017001 AccXangle: -0.297348 AccYangle: 0.959564 CFangleX: -0.187515 CFangleY: -2.293156
-20211012013113 gyroXangle: 0.025200 gyroYangle: -10.007199 gyroZangle: -3.045001 AccXangle: -0.121994 AccYangle: 0.921631 CFangleX: -0.212710 CFangleY: -2.303995
-20211012013113 gyroXangle: 0.015400 gyroYangle: -10.168200 gyroZangle: -3.078601 AccXangle: -0.203079 AccYangle: 0.947632 CFangleX: -0.221927 CFangleY: -2.362616
-20211012013113 gyroXangle: 0.012600 gyroYangle: -10.306800 gyroZangle: -3.124801 AccXangle: -0.325226 AccYangle: 0.731720 CFangleX: -0.227742 CFangleY: -2.404228
-20211012013113 gyroXangle: 0.004200 gyroYangle: -10.427200 gyroZangle: -3.189201 AccXangle: -0.270966 AccYangle: 0.826416 CFangleX: -0.237186 CFangleY: -2.424096
-20211012013113 gyroXangle: 0.007000 gyroYangle: -10.536400 gyroZangle: -3.192001 AccXangle: -0.202515 AccYangle: 0.985443 CFangleX: -0.233430 CFangleY: -2.427734
-20211012013113 gyroXangle: 0.002800 gyroYangle: -10.627399 gyroZangle: -3.229801 AccXangle: -0.216568 AccYangle: 0.974457 CFangleX: -0.236998 CFangleY: -2.413939
-20211012013113 gyroXangle: -0.015400 gyroYangle: -10.771600 gyroZangle: -3.236801 AccXangle: -0.176056 AccYangle: 0.880157 CFangleX: -0.252824 CFangleY: -2.454990
-20211012013113 gyroXangle: -0.008400 gyroYangle: -10.901800 gyroZangle: -3.252201 AccXangle: -0.121841 AccYangle: 0.947632 CFangleX: -0.242105 CFangleY: -2.479205
-20211012013113 gyroXangle: 0.000000 gyroYangle: -10.928400 gyroZangle: -3.256401 AccXangle: -0.324539 AccYangle: 0.892426 CFangleX: -0.236430 CFangleY: -2.403858
-20211012013113 gyroXangle: 0.005600 gyroYangle: -11.006800 gyroZangle: -3.270401 AccXangle: -0.230270 AccYangle: 0.812653 CFangleX: -0.230813 CFangleY: -2.383411
-20211012013113 gyroXangle: -0.015400 gyroYangle: -11.181800 gyroZangle: -3.346001 AccXangle: -0.202744 AccYangle: 0.932556 CFangleX: -0.250341 CFangleY: -2.453682
-20211012013113 gyroXangle: 0.007000 gyroYangle: -11.151000 gyroZangle: -3.406201 AccXangle: -0.053604 AccYangle: 1.232544 CFangleX: -0.222711 CFangleY: -2.313219
-20211012013113 gyroXangle: 0.023800 gyroYangle: -11.300800 gyroZangle: -3.414601 AccXangle: 0.013565 AccYangle: 1.233582 CFangleX: -0.199326 CFangleY: -2.352121
-20211012013113 gyroXangle: 0.021000 gyroYangle: -11.439401 gyroZangle: -3.507001 AccXangle: -0.161133 AccYangle: 0.899597 CFangleX: -0.200897 CFangleY: -2.389012
-20211012013113 gyroXangle: 0.000000 gyroYangle: -11.561201 gyroZangle: -3.484601 AccXangle: -0.284714 AccYangle: 1.043854 CFangleX: -0.223781 CFangleY: -2.404172
-20211012013113 gyroXangle: -0.012600 gyroYangle: -11.684402 gyroZangle: -3.456601 AccXangle: -0.148895 AccYangle: 0.757935 CFangleX: -0.233757 CFangleY: -2.428813
-20211012013113 gyroXangle: -0.037800 gyroYangle: -11.821602 gyroZangle: -3.442601 AccXangle: -0.189087 AccYangle: 0.715820 CFangleX: -0.256860 CFangleY: -2.467557
-20211012013113 gyroXangle: -0.035000 gyroYangle: -11.974202 gyroZangle: -3.466401 AccXangle: -0.148514 AccYangle: 0.809967 CFangleX: -0.250894 CFangleY: -2.517254
-20211012013113 gyroXangle: -0.042000 gyroYangle: -12.037202 gyroZangle: -3.511201 AccXangle: -0.161850 AccYangle: 0.836182 CFangleX: -0.255013 CFangleY: -2.477761
-20211012013113 gyroXangle: -0.060200 gyroYangle: -12.156202 gyroZangle: -3.535001 AccXangle: -0.243347 AccYangle: 0.892212 CFangleX: -0.272317 CFangleY: -2.492091
-20211012013113 gyroXangle: -0.050400 gyroYangle: -12.241602 gyroZangle: -3.530801 AccXangle: -0.108536 AccYangle: 0.854706 CFangleX: -0.257897 CFangleY: -2.474525
-20211012013113 gyroXangle: -0.071400 gyroYangle: -12.402602 gyroZangle: -3.553201 AccXangle: -0.202454 AccYangle: 0.715302 CFangleX: -0.276604 CFangleY: -2.535001
-20211012013113 gyroXangle: -0.079800 gyroYangle: -12.528603 gyroZangle: -3.614801 AccXangle: -0.394577 AccYangle: 0.938751 CFangleX: -0.288291 CFangleY: -2.553008
+Start Time: 2022-03-04 13:44:16.643554
+Running Time = 0:00:00.000461 Roll = 0.026484 Pitch = 0.101553 Yaw =61.454486
+Start Time: 2022-03-04 13:44:52.692294
+Running Time = 0:00:00.000287 Roll = 0.027027 Pitch = 0.104864 Yaw =61.445279
+Start Time: 2022-03-04 13:45:11.051765
+Running Time = 0:00:00.000280 Roll = 0.027757 Pitch = 0.103058 Yaw =61.574884
+Running Time = 0:00:00.038830 Roll = 0.028314 Pitch = 0.102034 Yaw =62.558453
+Running Time = 0:00:00.038679 Roll = 0.026285 Pitch = 0.103806 Yaw =60.368726
+Running Time = 0:00:00.038661 Roll = 0.025454 Pitch = 0.100756 Yaw =62.578562
+Running Time = 0:00:00.038706 Roll = 0.027889 Pitch = 0.103606 Yaw =61.146272
+Running Time = 0:00:00.038475 Roll = 0.026459 Pitch = 0.101458 Yaw =61.847990
+Running Time = 0:00:00.038902 Roll = 0.026509 Pitch = 0.102585 Yaw =61.405133
+Running Time = 0:00:00.039785 Roll = 0.028922 Pitch = 0.102044 Yaw =62.070299
+Running Time = 0:00:00.038779 Roll = 0.028381 Pitch = 0.101338 Yaw =61.461318
+Running Time = 0:00:00.038904 Roll = 0.025520 Pitch = 0.100783 Yaw =61.503231
+Running Time = 0:00:00.038977 Roll = 0.028591 Pitch = 0.101008 Yaw =62.265862
+Running Time = 0:00:00.038540 Roll = 0.027110 Pitch = 0.100776 Yaw =61.572395
+Running Time = 0:00:00.038498 Roll = 0.029251 Pitch = 0.102008 Yaw =62.111844
+Running Time = 0:00:00.039075 Roll = 0.029556 Pitch = 0.102714 Yaw =61.436186
+Running Time = 0:00:00.038421 Roll = 0.027968 Pitch = 0.099208 Yaw =62.962458
+Running Time = 0:00:00.038482 Roll = 0.028557 Pitch = 0.102291 Yaw =62.226577
+Running Time = 0:00:00.038498 Roll = 0.027540 Pitch = 0.101957 Yaw =62.404770
+Running Time = 0:00:00.038733 Roll = 0.030000 Pitch = 0.102383 Yaw =61.582545
+Running Time = 0:00:00.038576 Roll = 0.027455 Pitch = 0.102817 Yaw =60.091739
+Running Time = 0:00:00.038627 Roll = 0.029201 Pitch = 0.100543 Yaw =62.559328
+Running Time = 0:00:00.038510 Roll = 0.027581 Pitch = 0.102407 Yaw =61.782846
+Running Time = 0:00:00.038538 Roll = 0.026963 Pitch = 0.100405 Yaw =62.886082
+Running Time = 0:00:00.038389 Roll = 0.028732 Pitch = 0.101842 Yaw =62.425284
+Running Time = 0:00:00.038596 Roll = 0.026727 Pitch = 0.100406 Yaw =62.181306
+Running Time = 0:00:00.038593 Roll = 0.027365 Pitch = 0.102247 Yaw =60.765980
+Running Time = 0:00:00.038608 Roll = 0.027862 Pitch = 0.101406 Yaw =61.760634
+Running Time = 0:00:00.038573 Roll = 0.027442 Pitch = 0.101130 Yaw =61.386442
+Running Time = 0:00:00.038641 Roll = 0.026521 Pitch = 0.103336 Yaw =60.267002
+Running Time = 0:00:00.038460 Roll = 0.028288 Pitch = 0.101006 Yaw =62.052372
+Running Time = 0:00:00.038478 Roll = 0.023867 Pitch = 0.104761 Yaw =59.190296
+Running Time = 0:00:00.038516 Roll = 0.028334 Pitch = 0.101639 Yaw =62.196585
+Running Time = 0:00:00.038603 Roll = 0.028328 Pitch = 0.100914 Yaw =62.007335
+Running Time = 0:00:00.038590 Roll = 0.026011 Pitch = 0.102256 Yaw =61.430498
+Running Time = 0:00:00.038588 Roll = 0.025502 Pitch = 0.100478 Yaw =60.760687
+Running Time = 0:00:00.039165 Roll = 0.027744 Pitch = 0.100663 Yaw =61.707741
+Running Time = 0:00:00.038682 Roll = 0.027666 Pitch = 0.102486 Yaw =61.874284
+Running Time = 0:00:00.038546 Roll = 0.024806 Pitch = 0.104734 Yaw =60.287840
+Running Time = 0:00:00.038581 Roll = 0.028288 Pitch = 0.101239 Yaw =62.160830
+Running Time = 0:00:00.038585 Roll = 0.028145 Pitch = 0.103678 Yaw =61.364969
+Running Time = 0:00:00.038465 Roll = 0.026403 Pitch = 0.101711 Yaw =62.563199
+Running Time = 0:00:00.038527 Roll = 0.029313 Pitch = 0.101053 Yaw =61.742736
+Running Time = 0:00:00.038516 Roll = 0.028152 Pitch = 0.104171 Yaw =60.924588
+Running Time = 0:00:00.038557 Roll = 0.025230 Pitch = 0.103371 Yaw =60.520596
+Running Time = 0:00:00.038523 Roll = 0.028348 Pitch = 0.103323 Yaw =60.932172
+Running Time = 0:00:00.038550 Roll = 0.028172 Pitch = 0.100965 Yaw =61.898023
+Running Time = 0:00:00.038584 Roll = 0.025999 Pitch = 0.101507 Yaw =61.397578
+Running Time = 0:00:00.038531 Roll = 0.027581 Pitch = 0.103340 Yaw =60.690667
+Running Time = 0:00:00.038454 Roll = 0.026011 Pitch = 0.103660 Yaw =60.318164
+Running Time = 0:00:00.038502 Roll = 0.026186 Pitch = 0.100849 Yaw =61.488898
+Running Time = 0:00:00.038507 Roll = 0.026503 Pitch = 0.103498 Yaw =60.462138
+Running Time = 0:00:00.038525 Roll = 0.026912 Pitch = 0.103254 Yaw =61.561270
+Running Time = 0:00:00.038624 Roll = 0.026528 Pitch = 0.101955 Yaw =61.524664
+Running Time = 0:00:00.038481 Roll = 0.028597 Pitch = 0.102903 Yaw =60.999967
+Running Time = 0:00:00.038760 Roll = 0.026733 Pitch = 0.102537 Yaw =60.458847
+Running Time = 0:00:00.038936 Roll = 0.028348 Pitch = 0.102154 Yaw =62.488985
+Running Time = 0:00:00.038983 Roll = 0.025611 Pitch = 0.102546 Yaw =60.768725
+Running Time = 0:00:00.039270 Roll = 0.026969 Pitch = 0.101131 Yaw =61.875536
+Running Time = 0:00:00.037988 Roll = 0.026931 Pitch = 0.101924 Yaw =61.250679
+Running Time = 0:00:00.038017 Roll = 0.028112 Pitch = 0.100518 Yaw =61.762569
+Running Time = 0:00:00.038059 Roll = 0.028241 Pitch = 0.099676 Yaw =62.429683
+Running Time = 0:00:00.037969 Roll = 0.026204 Pitch = 0.102555 Yaw =60.978969
+Running Time = 0:00:00.038065 Roll = 0.027816 Pitch = 0.102173 Yaw =61.665971
+Running Time = 0:00:00.038009 Roll = 0.027193 Pitch = 0.102721 Yaw =60.694173
+Running Time = 0:00:00.038012 Roll = 0.025720 Pitch = 0.102041 Yaw =60.627599
+Running Time = 0:00:00.037926 Roll = 0.025272 Pitch = 0.101203 Yaw =61.814178
+Running Time = 0:00:00.037983 Roll = 0.028820 Pitch = 0.102620 Yaw =61.211137
+Running Time = 0:00:00.037991 Roll = 0.026670 Pitch = 0.102763 Yaw =61.625809
+Running Time = 0:00:00.037995 Roll = 0.028388 Pitch = 0.102766 Yaw =61.301005
+Running Time = 0:00:00.037945 Roll = 0.028712 Pitch = 0.101072 Yaw =62.107099
+Running Time = 0:00:00.038016 Roll = 0.028813 Pitch = 0.102596 Yaw =61.697584
+Running Time = 0:00:00.038010 Roll = 0.028550 Pitch = 0.101333 Yaw =61.890152
+Running Time = 0:00:00.038004 Roll = 0.027574 Pitch = 0.104715 Yaw =60.875047
+Running Time = 0:00:00.037967 Roll = 0.026925 Pitch = 0.101667 Yaw =62.453410
+Running Time = 0:00:00.037991 Roll = 0.026944 Pitch = 0.101270 Yaw =61.652830
+Running Time = 0:00:00.038070 Roll = 0.029473 Pitch = 0.100559 Yaw =63.160925
+Running Time = 0:00:00.038678 Roll = 0.028408 Pitch = 0.100730 Yaw =61.803495
+Running Time = 0:00:00.038641 Roll = 0.025072 Pitch = 0.102751 Yaw =60.938554
+Running Time = 0:00:00.038718 Roll = 0.027174 Pitch = 0.104051 Yaw =59.837398
+Running Time = 0:00:00.038545 Roll = 0.028112 Pitch = 0.103791 Yaw =61.699889
+Running Time = 0:00:00.038592 Roll = 0.026950 Pitch = 0.101762 Yaw =61.386930
+Running Time = 0:00:00.038576 Roll = 0.029292 Pitch = 0.103553 Yaw =61.847939
+Running Time = 0:00:00.038463 Roll = 0.025278 Pitch = 0.102162 Yaw =61.051641
+Running Time = 0:00:00.038518 Roll = 0.025442 Pitch = 0.099543 Yaw =62.219897
+Running Time = 0:00:00.038516 Roll = 0.025424 Pitch = 0.104365 Yaw =61.043245
+Running Time = 0:00:00.038568 Roll = 0.029528 Pitch = 0.104721 Yaw =61.848460
+Running Time = 0:00:00.038456 Roll = 0.026874 Pitch = 0.101243 Yaw =61.199190
+Running Time = 0:00:00.038555 Roll = 0.024489 Pitch = 0.107884 Yaw =58.823616
+Running Time = 0:00:00.038599 Roll = 0.026601 Pitch = 0.100403 Yaw =62.757497
+Running Time = 0:00:00.038558 Roll = 0.026428 Pitch = 0.101573 Yaw =62.260464
+Running Time = 0:00:00.038432 Roll = 0.023884 Pitch = 0.102964 Yaw =60.400944
+Running Time = 0:00:00.038500 Roll = 0.026521 Pitch = 0.103571 Yaw =60.379015
+Running Time = 0:00:00.038507 Roll = 0.024552 Pitch = 0.102326 Yaw =60.712761
+Running Time = 0:00:00.038496 Roll = 0.029535 Pitch = 0.104278 Yaw =61.110638
+Running Time = 0:00:00.038464 Roll = 0.027581 Pitch = 0.103107 Yaw =60.525748
+Running Time = 0:00:00.038510 Roll = 0.026701 Pitch = 0.103819 Yaw =60.169891
+Running Time = 0:00:00.038585 Roll = 0.028158 Pitch = 0.100873 Yaw =61.985019
+Running Time = 0:00:00.038584 Roll = 0.024508 Pitch = 0.111494 Yaw =57.540631
+Running Time = 0:00:00.038551 Roll = 0.026474 Pitch = 0.105016 Yaw =60.073085
+Running Time = 0:00:00.038527 Roll = 0.027731 Pitch = 0.106442 Yaw =60.739448
+Running Time = 0:00:00.038524 Roll = 0.026266 Pitch = 0.105371 Yaw =60.693148
+Running Time = 0:00:00.038611 Roll = 0.028469 Pitch = 0.101178 Yaw =63.179201
+Running Time = 0:00:00.038674 Roll = 0.027915 Pitch = 0.100660 Yaw =62.389050
+Running Time = 0:00:00.038530 Roll = 0.026186 Pitch = 0.101082 Yaw =62.483806
+Running Time = 0:00:00.038667 Roll = 0.027862 Pitch = 0.102808 Yaw =60.633276
+Running Time = 0:00:00.038612 Roll = 0.026613 Pitch = 0.101848 Yaw =61.931413
+Running Time = 0:00:00.038878 Roll = 0.024777 Pitch = 0.103911 Yaw =59.020415
+Running Time = 0:00:00.038670 Roll = 0.025195 Pitch = 0.101828 Yaw =61.606695
+Running Time = 0:00:00.038515 Roll = 0.026906 Pitch = 0.099960 Yaw =62.816183
+Running Time = 0:00:00.038519 Roll = 0.028847 Pitch = 0.102248 Yaw =62.109676
+Running Time = 0:00:00.038523 Roll = 0.027592 Pitch = 0.103327 Yaw =60.605068
+Running Time = 0:00:00.038467 Roll = 0.026478 Pitch = 0.101763 Yaw =61.268280
+Running Time = 0:00:00.038425 Roll = 0.027784 Pitch = 0.100423 Yaw =61.106190
+Running Time = 0:00:00.038684 Roll = 0.026478 Pitch = 0.096614 Yaw =63.600853
+Running Time = 0:00:00.038568 Roll = 0.026566 Pitch = 0.104914 Yaw =60.646575
+Running Time = 0:00:00.038531 Roll = 0.028015 Pitch = 0.103131 Yaw =61.513541
+Running Time = 0:00:00.038518 Roll = 0.026758 Pitch = 0.104038 Yaw =60.613244
+Running Time = 0:00:00.038490 Roll = 0.026616 Pitch = 0.102997 Yaw =60.082222
+Running Time = 0:00:00.038509 Roll = 0.028072 Pitch = 0.103178 Yaw =60.851416
+Running Time = 0:00:00.038727 Roll = 0.026931 Pitch = 0.101223 Yaw =60.773635
+Running Time = 0:00:00.038473 Roll = 0.026988 Pitch = 0.102842 Yaw =60.207255
+Running Time = 0:00:00.038793 Roll = 0.027909 Pitch = 0.101807 Yaw =61.456569
+Running Time = 0:00:00.038798 Roll = 0.026739 Pitch = 0.101390 Yaw =61.562297
+Running Time = 0:00:00.038864 Roll = 0.027639 Pitch = 0.101922 Yaw =62.572159
+Running Time = 0:00:00.038508 Roll = 0.027475 Pitch = 0.100077 Yaw =62.361757
+Running Time = 0:00:00.038582 Roll = 0.027816 Pitch = 0.101474 Yaw =61.354209
+Running Time = 0:00:00.038605 Roll = 0.026478 Pitch = 0.100827 Yaw =62.261572
+Running Time = 0:00:00.038859 Roll = 0.025956 Pitch = 0.102741 Yaw =60.195523
+Running Time = 0:00:00.038820 Roll = 0.028070 Pitch = 0.111562 Yaw =58.310119
+Running Time = 0:00:00.038372 Roll = 0.027071 Pitch = 0.098537 Yaw =63.817036
+Running Time = 0:00:00.038375 Roll = 0.027942 Pitch = 0.100286 Yaw =62.216240
+Running Time = 0:00:00.038665 Roll = 0.028909 Pitch = 0.101527 Yaw =61.985362
+Running Time = 0:00:00.038667 Roll = 0.027014 Pitch = 0.100423 Yaw =61.526922
+Running Time = 0:00:00.038572 Roll = 0.026515 Pitch = 0.103546 Yaw =61.133611
+Running Time = 0:00:00.038508 Roll = 0.028079 Pitch = 0.103436 Yaw =61.174994
+Running Time = 0:00:00.038710 Roll = 0.030064 Pitch = 0.100022 Yaw =62.613776
+Running Time = 0:00:00.038830 Roll = 0.027436 Pitch = 0.101574 Yaw =61.452324
+Running Time = 0:00:00.038735 Roll = 0.028015 Pitch = 0.101721 Yaw =61.835578
+Running Time = 0:00:00.038792 Roll = 0.030043 Pitch = 0.101591 Yaw =62.200873
+Running Time = 0:00:00.038747 Roll = 0.025763 Pitch = 0.102443 Yaw =61.139908
+Running Time = 0:00:00.038818 Roll = 0.028584 Pitch = 0.101452 Yaw =61.719537
+Running Time = 0:00:00.038758 Roll = 0.029507 Pitch = 0.101612 Yaw =61.428742
+Running Time = 0:00:00.038612 Roll = 0.028019 Pitch = 0.101587 Yaw =61.213908
+Running Time = 0:00:00.038604 Roll = 0.029139 Pitch = 0.101268 Yaw =62.621231
+Running Time = 0:00:00.039215 Roll = 0.025466 Pitch = 0.100337 Yaw =61.018708
+Running Time = 0:00:00.038795 Roll = 0.027902 Pitch = 0.103655 Yaw =60.378166
+Running Time = 0:00:00.038712 Roll = 0.025830 Pitch = 0.102942 Yaw =60.546471
+Running Time = 0:00:00.038493 Roll = 0.027122 Pitch = 0.101523 Yaw =61.164080
+Running Time = 0:00:00.038629 Roll = 0.026982 Pitch = 0.103287 Yaw =61.464273
+Running Time = 0:00:00.038608 Roll = 0.026515 Pitch = 0.102375 Yaw =59.060025
+Running Time = 0:00:00.038598 Roll = 0.026834 Pitch = 0.103158 Yaw =60.412716
+Running Time = 0:00:00.038567 Roll = 0.028225 Pitch = 0.103737 Yaw =61.311489
+Running Time = 0:00:00.038625 Roll = 0.027206 Pitch = 0.101599 Yaw =61.848416
+Running Time = 0:00:00.038574 Roll = 0.027902 Pitch = 0.103889 Yaw =60.553721
+Running Time = 0:00:00.038519 Roll = 0.027672 Pitch = 0.102276 Yaw =60.756915
+Running Time = 0:00:00.038519 Roll = 0.026036 Pitch = 0.101181 Yaw =62.086209
+Running Time = 0:00:00.038515 Roll = 0.029368 Pitch = 0.104422 Yaw =60.942023
+Running Time = 0:00:00.038492 Roll = 0.030301 Pitch = 0.088790 Yaw =68.206458
+Running Time = 0:00:00.038586 Roll = 0.027169 Pitch = 0.107529 Yaw =59.101316
+Running Time = 0:00:00.038758 Roll = 0.028543 Pitch = 0.099441 Yaw =63.585029
+Running Time = 0:00:00.038633 Roll = 0.027148 Pitch = 0.103253 Yaw =62.213500
+Running Time = 0:00:00.038578 Roll = 0.027757 Pitch = 0.103762 Yaw =61.800527
+Running Time = 0:00:00.038587 Roll = 0.028052 Pitch = 0.101240 Yaw =62.559339
+Running Time = 0:00:00.038589 Roll = 0.027514 Pitch = 0.101157 Yaw =60.857570
+Running Time = 0:00:00.038854 Roll = 0.028854 Pitch = 0.102740 Yaw =61.927460
+Running Time = 0:00:00.038651 Roll = 0.029965 Pitch = 0.101563 Yaw =62.807609
+Running Time = 0:00:00.038734 Roll = 0.025799 Pitch = 0.101416 Yaw =61.080642
+Running Time = 0:00:00.038654 Roll = 0.026060 Pitch = 0.100104 Yaw =62.231220
+Running Time = 0:00:00.038432 Roll = 0.025763 Pitch = 0.098232 Yaw =62.100397
+Running Time = 0:00:00.038449 Roll = 0.026446 Pitch = 0.099774 Yaw =62.557813
+Running Time = 0:00:00.038357 Roll = 0.028875 Pitch = 0.101642 Yaw =61.711444
+Running Time = 0:00:00.038503 Roll = 0.028631 Pitch = 0.103258 Yaw =61.661774
+Running Time = 0:00:00.038504 Roll = 0.028861 Pitch = 0.100892 Yaw =62.243624
+Running Time = 0:00:00.038522 Roll = 0.027672 Pitch = 0.101340 Yaw =61.983448
+Running Time = 0:00:00.038460 Roll = 0.027955 Pitch = 0.100802 Yaw =62.810470
+Running Time = 0:00:00.038581 Roll = 0.026085 Pitch = 0.101841 Yaw =60.939489
+Running Time = 0:00:00.039432 Roll = 0.027862 Pitch = 0.102341 Yaw =60.700474
+Running Time = 0:00:00.038848 Roll = 0.028354 Pitch = 0.103347 Yaw =60.747341
+Running Time = 0:00:00.038863 Roll = 0.026746 Pitch = 0.101179 Yaw =62.187770
+Running Time = 0:00:00.038576 Roll = 0.027882 Pitch = 0.102179 Yaw =62.367944
+Running Time = 0:00:00.038040 Roll = 0.027594 Pitch = 0.101055 Yaw =62.285188
+Running Time = 0:00:00.037960 Roll = 0.027212 Pitch = 0.102325 Yaw =62.366921
+Running Time = 0:00:00.037975 Roll = 0.027455 Pitch = 0.104222 Yaw =61.502874
+Running Time = 0:00:00.037941 Roll = 0.027174 Pitch = 0.104285 Yaw =62.258125
+Running Time = 0:00:00.038216 Roll = 0.028462 Pitch = 0.103736 Yaw =61.257065
+Running Time = 0:00:00.038455 Roll = 0.027533 Pitch = 0.102403 Yaw =62.752000
+Running Time = 0:00:00.038019 Roll = 0.027468 Pitch = 0.100756 Yaw =62.926461
+Running Time = 0:00:00.037909 Roll = 0.026695 Pitch = 0.102159 Yaw =60.951493
+Running Time = 0:00:00.037967 Roll = 0.030487 Pitch = 0.102196 Yaw =61.340321
+Running Time = 0:00:00.037977 Roll = 0.027895 Pitch = 0.101058 Yaw =61.644212
+Running Time = 0:00:00.037989 Roll = 0.026415 Pitch = 0.103159 Yaw =61.278056
+Running Time = 0:00:00.037914 Roll = 0.029334 Pitch = 0.104401 Yaw =61.383041
+Running Time = 0:00:00.037952 Roll = 0.028158 Pitch = 0.103025 Yaw =62.519950
+Running Time = 0:00:00.038003 Roll = 0.029549 Pitch = 0.103392 Yaw =61.938669
+Running Time = 0:00:00.038047 Roll = 0.026534 Pitch = 0.100103 Yaw =62.794594
+Running Time = 0:00:00.037973 Roll = 0.028422 Pitch = 0.103824 Yaw =62.307783
+Running Time = 0:00:00.038024 Roll = 0.026272 Pitch = 0.101883 Yaw =61.216664
+Running Time = 0:00:00.038557 Roll = 0.026428 Pitch = 0.101339 Yaw =61.692252
+Running Time = 0:00:00.038503 Roll = 0.026727 Pitch = 0.100640 Yaw =61.887702
+Running Time = 0:00:00.038459 Roll = 0.027869 Pitch = 0.099560 Yaw =62.368960
+Running Time = 0:00:00.038786 Roll = 0.025143 Pitch = 0.102572 Yaw =60.381940
+Running Time = 0:00:00.038440 Roll = 0.025690 Pitch = 0.101222 Yaw =61.494620
+Running Time = 0:00:00.038385 Roll = 0.022749 Pitch = 0.097435 Yaw =61.391169
+Running Time = 0:00:00.038364 Roll = 0.027059 Pitch = 0.103148 Yaw =60.387338
+Running Time = 0:00:00.038584 Roll = 0.026551 Pitch = 0.105329 Yaw =59.861517
+Running Time = 0:00:00.039033 Roll = 0.028836 Pitch = 0.105404 Yaw =60.700682
+Running Time = 0:00:00.038887 Roll = 0.027040 Pitch = 0.102567 Yaw =60.954822
+Running Time = 0:00:00.038940 Roll = 0.026054 Pitch = 0.103128 Yaw =60.691701
+Running Time = 0:00:00.038576 Roll = 0.027705 Pitch = 0.101693 Yaw =61.263400
+Running Time = 0:00:00.038816 Roll = 0.025563 Pitch = 0.103993 Yaw =60.887985
+Running Time = 0:00:00.038639 Roll = 0.025290 Pitch = 0.103847 Yaw =59.693113
+Running Time = 0:00:00.038843 Roll = 0.026578 Pitch = 0.102851 Yaw =60.798422
+Running Time = 0:00:00.038647 Roll = 0.026937 Pitch = 0.102416 Yaw =61.080970
+Running Time = 0:00:00.038596 Roll = 0.027103 Pitch = 0.104483 Yaw =60.768299
+Running Time = 0:00:00.038718 Roll = 0.027078 Pitch = 0.102712 Yaw =61.222747
+Running Time = 0:00:00.038608 Roll = 0.028618 Pitch = 0.102975 Yaw =61.575140
+Running Time = 0:00:00.038919 Roll = 0.027507 Pitch = 0.103949 Yaw =61.208678
+Running Time = 0:00:00.038606 Roll = 0.024818 Pitch = 0.101978 Yaw =60.910364
+Running Time = 0:00:00.038542 Roll = 0.026950 Pitch = 0.105036 Yaw =60.378380
+Running Time = 0:00:00.038737 Roll = 0.027416 Pitch = 0.104309 Yaw =61.431298
+Running Time = 0:00:00.038489 Roll = 0.027416 Pitch = 0.099397 Yaw =62.485295
+Running Time = 0:00:00.038703 Roll = 0.027186 Pitch = 0.100592 Yaw =61.568881
+Running Time = 0:00:00.038587 Roll = 0.027257 Pitch = 0.101086 Yaw =61.688544
+Running Time = 0:00:00.038647 Roll = 0.027679 Pitch = 0.103002 Yaw =61.014569
+Running Time = 0:00:00.038553 Roll = 0.026011 Pitch = 0.102022 Yaw =60.636259
+Running Time = 0:00:00.038518 Roll = 0.026223 Pitch = 0.102627 Yaw =60.742595
+Running Time = 0:00:00.038497 Roll = 0.028334 Pitch = 0.103741 Yaw =61.627843
+Running Time = 0:00:00.038585 Roll = 0.027685 Pitch = 0.102792 Yaw =61.939285
+Running Time = 0:00:00.038461 Roll = 0.025611 Pitch = 0.102781 Yaw =61.039854
+Running Time = 0:00:00.038546 Roll = 0.027212 Pitch = 0.102325 Yaw =62.340100
+Running Time = 0:00:00.040297 Roll = 0.025551 Pitch = 0.103710 Yaw =66.342063
+Running Time = 0:00:00.038425 Roll = 0.026701 Pitch = 0.104053 Yaw =60.361433
+Running Time = 0:00:00.038006 Roll = 0.031115 Pitch = 0.102863 Yaw =62.254484
+Running Time = 0:00:00.038026 Roll = 0.027862 Pitch = 0.101874 Yaw =62.006263
+Running Time = 0:00:00.038019 Roll = 0.027001 Pitch = 0.103594 Yaw =61.440022
+Running Time = 0:00:00.038039 Roll = 0.027481 Pitch = 0.104085 Yaw =61.997756
+Running Time = 0:00:00.037990 Roll = 0.024865 Pitch = 0.102404 Yaw =61.354064
+Running Time = 0:00:00.038048 Roll = 0.026217 Pitch = 0.104706 Yaw =60.492345
+Running Time = 0:00:00.038278 Roll = 0.027718 Pitch = 0.101741 Yaw =62.314043
+Running Time = 0:00:00.038175 Roll = 0.028881 Pitch = 0.099791 Yaw =63.157916
+Running Time = 0:00:00.038033 Roll = 0.028658 Pitch = 0.103120 Yaw =61.579944
+Running Time = 0:00:00.038084 Roll = 0.026912 Pitch = 0.104188 Yaw =61.149735
+Running Time = 0:00:00.038026 Roll = 0.026235 Pitch = 0.102675 Yaw =61.554327
+Running Time = 0:00:00.038041 Roll = 0.028422 Pitch = 0.101715 Yaw =61.432655
+Running Time = 0:00:00.038059 Roll = 0.023631 Pitch = 0.102190 Yaw =60.703425
+Running Time = 0:00:00.038026 Roll = 0.026547 Pitch = 0.102965 Yaw =61.247583
+Running Time = 0:00:00.038080 Roll = 0.029757 Pitch = 0.101658 Yaw =62.657951
+Running Time = 0:00:00.038217 Roll = 0.026011 Pitch = 0.101320 Yaw =61.494241
+Running Time = 0:00:00.038026 Roll = 0.026733 Pitch = 0.102302 Yaw =61.482048
+Running Time = 0:00:00.038395 Roll = 0.027090 Pitch = 0.102104 Yaw =62.080071
+Running Time = 0:00:00.039344 Roll = 0.028381 Pitch = 0.103210 Yaw =60.782343
+Running Time = 0:00:00.038981 Roll = 0.026515 Pitch = 0.101438 Yaw =61.643564
+Running Time = 0:00:00.038785 Roll = 0.026079 Pitch = 0.102990 Yaw =60.606294
+Start Time: 2022-03-04 13:50:08.623767
+Running Time = 0:00:00.000324 Roll = 0.028827 Pitch = 0.102644 Yaw =61.820094
+Running Time = 0:00:00.038901 Roll = 0.027257 Pitch = 0.104369 Yaw =60.687491
+Running Time = 0:00:00.038664 Roll = 0.026963 Pitch = 0.102980 Yaw =61.217977
+Running Time = 0:00:00.038754 Roll = 0.028125 Pitch = 0.102203 Yaw =61.668807
+Running Time = 0:00:00.038587 Roll = 0.025071 Pitch = 0.094601 Yaw =64.062929
+Running Time = 0:00:00.038683 Roll = 0.027397 Pitch = 0.099795 Yaw =62.073220
+Running Time = 0:00:00.038647 Roll = 0.028079 Pitch = 0.100167 Yaw =62.336176
+Running Time = 0:00:00.039074 Roll = 0.028039 Pitch = 0.101192 Yaw =61.328111
+Running Time = 0:00:00.038605 Roll = 0.027666 Pitch = 0.101784 Yaw =62.443234
+Running Time = 0:00:00.038781 Roll = 0.029077 Pitch = 0.099650 Yaw =63.159204
+Running Time = 0:00:00.038736 Roll = 0.028482 Pitch = 0.103574 Yaw =61.403705
+Running Time = 0:00:00.038492 Roll = 0.025987 Pitch = 0.103563 Yaw =60.759063
+Running Time = 0:00:00.038448 Roll = 0.026733 Pitch = 0.102068 Yaw =61.299789
+Running Time = 0:00:00.038508 Roll = 0.027193 Pitch = 0.102253 Yaw =61.274542
+Running Time = 0:00:00.038657 Roll = 0.026733 Pitch = 0.100430 Yaw =61.709052
+Running Time = 0:00:00.038642 Roll = 0.025066 Pitch = 0.101791 Yaw =62.054411
+Running Time = 0:00:00.038779 Roll = 0.027462 Pitch = 0.101670 Yaw =62.730238
+Running Time = 0:00:00.038581 Roll = 0.026509 Pitch = 0.102820 Yaw =61.571631
+Running Time = 0:00:00.038677 Roll = 0.028604 Pitch = 0.099886 Yaw =62.350614
+Running Time = 0:00:00.038693 Roll = 0.026765 Pitch = 0.103360 Yaw =60.609641
+Running Time = 0:00:00.038770 Roll = 0.028564 Pitch = 0.102782 Yaw =61.309901
+Running Time = 0:00:00.038618 Roll = 0.027895 Pitch = 0.102695 Yaw =60.290698
+Running Time = 0:00:00.038623 Roll = 0.027174 Pitch = 0.103584 Yaw =60.726177
+Running Time = 0:00:00.038642 Roll = 0.026509 Pitch = 0.104224 Yaw =59.830317
+Running Time = 0:00:00.038736 Roll = 0.027429 Pitch = 0.102486 Yaw =61.200935
+Running Time = 0:00:00.038637 Roll = 0.026260 Pitch = 0.102304 Yaw =61.759791
+Running Time = 0:00:00.039528 Roll = 0.029118 Pitch = 0.102134 Yaw =62.962013
+Running Time = 0:00:00.038917 Roll = 0.027161 Pitch = 0.101900 Yaw =61.970713
+Running Time = 0:00:00.038443 Roll = 0.026260 Pitch = 0.102772 Yaw =61.694931
+Running Time = 0:00:00.038667 Roll = 0.026397 Pitch = 0.099587 Yaw =61.895611
+Running Time = 0:00:00.038293 Roll = 0.025496 Pitch = 0.101856 Yaw =61.034105
+Running Time = 0:00:00.038381 Roll = 0.026471 Pitch = 0.102675 Yaw =61.571196
+Running Time = 0:00:00.038597 Roll = 0.028178 Pitch = 0.102160 Yaw =61.953345
+Running Time = 0:00:00.038657 Roll = 0.027909 Pitch = 0.102977 Yaw =60.612877
+Running Time = 0:00:00.038537 Roll = 0.027600 Pitch = 0.102012 Yaw =61.478182
+Running Time = 0:00:00.038570 Roll = 0.027219 Pitch = 0.102349 Yaw =62.075113
+Running Time = 0:00:00.038575 Roll = 0.026944 Pitch = 0.105011 Yaw =60.306300
+Running Time = 0:00:00.038652 Roll = 0.026695 Pitch = 0.100054 Yaw =62.350714
+Running Time = 0:00:00.038526 Roll = 0.028348 Pitch = 0.101453 Yaw =62.150120
+Running Time = 0:00:00.038599 Roll = 0.027161 Pitch = 0.103535 Yaw =60.421225
+Running Time = 0:00:00.038570 Roll = 0.027033 Pitch = 0.100431 Yaw =61.851926
+Running Time = 0:00:00.038565 Roll = 0.026660 Pitch = 0.101754 Yaw =60.948891
+Running Time = 0:00:00.038499 Roll = 0.031799 Pitch = 0.101390 Yaw =61.833776
+Running Time = 0:00:00.038579 Roll = 0.028940 Pitch = 0.104307 Yaw =60.832545
+Running Time = 0:00:00.038551 Roll = 0.026484 Pitch = 0.104594 Yaw =60.062341
+Running Time = 0:00:00.038524 Roll = 0.029647 Pitch = 0.103263 Yaw =62.272211
+Running Time = 0:00:00.038508 Roll = 0.026803 Pitch = 0.106790 Yaw =58.305658
+Running Time = 0:00:00.038676 Roll = 0.026833 Pitch = 0.103355 Yaw =61.376195
+Running Time = 0:00:00.038452 Roll = 0.029008 Pitch = 0.099884 Yaw =62.659598
+Running Time = 0:00:00.038444 Roll = 0.027698 Pitch = 0.102372 Yaw =61.176940
+Running Time = 0:00:00.038516 Roll = 0.026743 Pitch = 0.102304 Yaw =62.124601
+Running Time = 0:00:00.038524 Roll = 0.030265 Pitch = 0.103141 Yaw =62.459702
+Running Time = 0:00:00.038610 Roll = 0.027130 Pitch = 0.101022 Yaw =61.403405
+Running Time = 0:00:00.039091 Roll = 0.027033 Pitch = 0.102543 Yaw =61.353179
+Running Time = 0:00:00.039253 Roll = 0.026291 Pitch = 0.102424 Yaw =61.130399
+Running Time = 0:00:00.038848 Roll = 0.028245 Pitch = 0.099347 Yaw =63.402931
+Running Time = 0:00:00.038519 Roll = 0.026459 Pitch = 0.100055 Yaw =63.590610
+Running Time = 0:00:00.038198 Roll = 0.026042 Pitch = 0.101674 Yaw =61.377364
+Running Time = 0:00:00.038343 Roll = 0.026254 Pitch = 0.100407 Yaw =61.494158
+Running Time = 0:00:00.037961 Roll = 0.026048 Pitch = 0.103806 Yaw =60.162131
+Running Time = 0:00:00.038021 Roll = 0.028104 Pitch = 0.105523 Yaw =60.517084
+Running Time = 0:00:00.038078 Roll = 0.024935 Pitch = 0.107155 Yaw =59.088026
+Running Time = 0:00:00.038054 Roll = 0.027546 Pitch = 0.102451 Yaw =60.609587
+Running Time = 0:00:00.037983 Roll = 0.026153 Pitch = 0.104928 Yaw =59.738083
+Running Time = 0:00:00.038071 Roll = 0.026124 Pitch = 0.101312 Yaw =61.123042
+Running Time = 0:00:00.038035 Roll = 0.025763 Pitch = 0.101273 Yaw =61.175627
+Running Time = 0:00:00.038009 Roll = 0.025993 Pitch = 0.100314 Yaw =61.206671
+Running Time = 0:00:00.037925 Roll = 0.027174 Pitch = 0.101714 Yaw =61.761401
+Running Time = 0:00:00.038064 Roll = 0.028254 Pitch = 0.102053 Yaw =62.099416
+Running Time = 0:00:00.038011 Roll = 0.028577 Pitch = 0.100259 Yaw =62.374329
+Running Time = 0:00:00.038011 Roll = 0.026893 Pitch = 0.104348 Yaw =60.332566
+Running Time = 0:00:00.038006 Roll = 0.026453 Pitch = 0.103771 Yaw =61.072115
+Running Time = 0:00:00.038068 Roll = 0.027626 Pitch = 0.097667 Yaw =62.796051
+Running Time = 0:00:00.038065 Roll = 0.024675 Pitch = 0.102597 Yaw =60.281499
+Running Time = 0:00:00.038552 Roll = 0.026893 Pitch = 0.105281 Yaw =60.061943
+Running Time = 0:00:00.038559 Roll = 0.024605 Pitch = 0.100903 Yaw =61.261033
+Running Time = 0:00:00.038739 Roll = 0.030854 Pitch = 0.101924 Yaw =61.779783
+Running Time = 0:00:00.038839 Roll = 0.026091 Pitch = 0.102100 Yaw =61.807136
+Running Time = 0:00:00.038619 Roll = 0.026957 Pitch = 0.098743 Yaw =61.928716
+Running Time = 0:00:00.038922 Roll = 0.027823 Pitch = 0.101731 Yaw =61.933307
+Running Time = 0:00:00.038756 Roll = 0.029042 Pitch = 0.100702 Yaw =66.178219
+Running Time = 0:00:00.038878 Roll = 0.026651 Pitch = 0.098489 Yaw =61.802423
+Running Time = 0:00:00.038432 Roll = 0.027764 Pitch = 0.099654 Yaw =62.101442
+Running Time = 0:00:00.038324 Roll = 0.026880 Pitch = 0.102433 Yaw =60.235312
+Running Time = 0:00:00.038296 Roll = 0.025968 Pitch = 0.101855 Yaw =60.467800
+Running Time = 0:00:00.038553 Roll = 0.029877 Pitch = 0.099484 Yaw =62.363451
+Running Time = 0:00:00.038649 Roll = 0.028638 Pitch = 0.101174 Yaw =61.247761
+Running Time = 0:00:00.038707 Roll = 0.027705 Pitch = 0.100053 Yaw =61.493530
+Running Time = 0:00:00.038589 Roll = 0.023131 Pitch = 0.102072 Yaw =60.271134
+Running Time = 0:00:00.038681 Roll = 0.029633 Pitch = 0.100400 Yaw =61.312545
+Running Time = 0:00:00.038689 Roll = 0.027103 Pitch = 0.098652 Yaw =63.217586
+Running Time = 0:00:00.038764 Roll = 0.024876 Pitch = 0.101983 Yaw =59.793689
+Running Time = 0:00:00.039105 Roll = 0.027186 Pitch = 0.102931 Yaw =60.696922
+Running Time = 0:00:00.039612 Roll = 0.027566 Pitch = 0.102054 Yaw =60.927584
+Running Time = 0:00:00.040261 Roll = 0.025460 Pitch = 0.103346 Yaw =60.698254
+Running Time = 0:00:00.040213 Roll = 0.028105 Pitch = 0.099092 Yaw =62.177192
+Running Time = 0:00:00.039464 Roll = 0.025575 Pitch = 0.098417 Yaw =61.770507
+Running Time = 0:00:00.039907 Roll = 0.026229 Pitch = 0.101482 Yaw =60.821142
+Running Time = 0:00:00.038779 Roll = 0.027948 Pitch = 0.103357 Yaw =60.633954
+Running Time = 0:00:00.039550 Roll = 0.029382 Pitch = 0.100822 Yaw =62.480819
+Running Time = 0:00:00.038769 Roll = 0.027646 Pitch = 0.100777 Yaw =60.769197
+Running Time = 0:00:00.038399 Roll = 0.028455 Pitch = 0.103008 Yaw =60.708601
+Running Time = 0:00:00.039523 Roll = 0.025054 Pitch = 0.099404 Yaw =60.971430
+Running Time = 0:00:00.038859 Roll = 0.025332 Pitch = 0.104252 Yaw =59.528235
+Running Time = 0:00:00.038357 Roll = 0.027481 Pitch = 0.106896 Yaw =59.484421
+Running Time = 0:00:00.039408 Roll = 0.028152 Pitch = 0.101128 Yaw =61.066821
+Running Time = 0:00:00.039117 Roll = 0.026036 Pitch = 0.104226 Yaw =60.178206
+Running Time = 0:00:00.038372 Roll = 0.027167 Pitch = 0.103326 Yaw =59.335478
+Running Time = 0:00:00.038546 Roll = 0.026036 Pitch = 0.102587 Yaw =60.634926
+Running Time = 0:00:00.038013 Roll = 0.027823 Pitch = 0.098463 Yaw =63.652057
+Running Time = 0:00:00.038043 Roll = 0.024616 Pitch = 0.103059 Yaw =59.657380
+Running Time = 0:00:00.038032 Roll = 0.027698 Pitch = 0.105884 Yaw =59.652554
+Running Time = 0:00:00.038013 Roll = 0.028165 Pitch = 0.101176 Yaw =61.336596
+Running Time = 0:00:00.038288 Roll = 0.027561 Pitch = 0.101869 Yaw =60.296946
+Running Time = 0:00:00.038322 Roll = 0.028868 Pitch = 0.103257 Yaw =60.394656
+Running Time = 0:00:00.038355 Roll = 0.026893 Pitch = 0.101314 Yaw =60.996844
+Running Time = 0:00:00.038542 Roll = 0.026465 Pitch = 0.101716 Yaw =60.308844
+Running Time = 0:00:00.038574 Roll = 0.025496 Pitch = 0.102090 Yaw =61.252574
+Running Time = 0:00:00.038547 Roll = 0.029125 Pitch = 0.101455 Yaw =61.043401
+Running Time = 0:00:00.038611 Roll = 0.027935 Pitch = 0.104011 Yaw =60.116496
+Running Time = 0:00:00.038558 Roll = 0.027942 Pitch = 0.104504 Yaw =59.081015
+Running Time = 0:00:00.038581 Roll = 0.027232 Pitch = 0.102163 Yaw =60.418450
+Running Time = 0:00:00.038565 Roll = 0.025496 Pitch = 0.102090 Yaw =61.217780
+Running Time = 0:00:00.038610 Roll = 0.026689 Pitch = 0.101901 Yaw =61.346361
+Running Time = 0:00:00.038625 Roll = 0.026054 Pitch = 0.103362 Yaw =60.696365
+Running Time = 0:00:00.038612 Roll = 0.027429 Pitch = 0.101785 Yaw =60.707320
+Running Time = 0:00:00.038592 Roll = 0.028218 Pitch = 0.099958 Yaw =62.148624
+Running Time = 0:00:00.038538 Roll = 0.026060 Pitch = 0.101042 Yaw =61.332249
+Running Time = 0:00:00.038518 Roll = 0.028301 Pitch = 0.100119 Yaw =61.595005
+Running Time = 0:00:00.038768 Roll = 0.026471 Pitch = 0.103610 Yaw =60.215533
+Running Time = 0:00:00.039124 Roll = 0.025931 Pitch = 0.101945 Yaw =61.042125
+Running Time = 0:00:00.039028 Roll = 0.026822 Pitch = 0.102875 Yaw =60.295061
+Running Time = 0:00:00.038240 Roll = 0.026918 Pitch = 0.102811 Yaw =59.379571
+Running Time = 0:00:00.038607 Roll = 0.026285 Pitch = 0.102634 Yaw =60.065203
+Running Time = 0:00:00.038662 Roll = 0.030694 Pitch = 0.103267 Yaw =61.750211
+Running Time = 0:00:00.038485 Roll = 0.027429 Pitch = 0.103656 Yaw =59.831429
+Running Time = 0:00:00.038292 Roll = 0.029793 Pitch = 0.102246 Yaw =60.162994
+Running Time = 0:00:00.038046 Roll = 0.025557 Pitch = 0.100690 Yaw =60.763488
+Running Time = 0:00:00.038152 Roll = 0.028658 Pitch = 0.103823 Yaw =59.894729
+Running Time = 0:00:00.038141 Roll = 0.027423 Pitch = 0.100123 Yaw =60.629789
+Running Time = 0:00:00.038210 Roll = 0.028059 Pitch = 0.099396 Yaw =61.543090
+Running Time = 0:00:00.038048 Roll = 0.028145 Pitch = 0.102041 Yaw =60.060469
+Running Time = 0:00:00.038047 Roll = 0.026465 Pitch = 0.101949 Yaw =60.136099
+Running Time = 0:00:00.038073 Roll = 0.026161 Pitch = 0.101221 Yaw =60.683072
+Running Time = 0:00:00.038023 Roll = 0.027955 Pitch = 0.101975 Yaw =60.878115
+Running Time = 0:00:00.038039 Roll = 0.024547 Pitch = 0.099732 Yaw =61.156113
+Running Time = 0:00:00.037972 Roll = 0.027027 Pitch = 0.101111 Yaw =61.879896
+Running Time = 0:00:00.038004 Roll = 0.029032 Pitch = 0.101249 Yaw =61.403373
+Running Time = 0:00:00.037936 Roll = 0.027963 Pitch = 0.104762 Yaw =60.261927
+Running Time = 0:00:00.038133 Roll = 0.024143 Pitch = 0.101420 Yaw =60.728089
+Running Time = 0:00:00.038407 Roll = 0.027046 Pitch = 0.102356 Yaw =60.856444
+Running Time = 0:00:00.038524 Roll = 0.025744 Pitch = 0.102605 Yaw =60.494942
+Running Time = 0:00:00.038446 Roll = 0.026995 Pitch = 0.103335 Yaw =59.829646
+Running Time = 0:00:00.038558 Roll = 0.027290 Pitch = 0.104023 Yaw =59.409198
+Running Time = 0:00:00.038674 Roll = 0.027692 Pitch = 0.101177 Yaw =60.361680
+Running Time = 0:00:00.038976 Roll = 0.026496 Pitch = 0.103005 Yaw =60.017311
+Running Time = 0:00:00.038288 Roll = 0.029417 Pitch = 0.102819 Yaw =61.486797
+Running Time = 0:00:00.038610 Roll = 0.027186 Pitch = 0.101995 Yaw =60.615715
+Running Time = 0:00:00.038750 Roll = 0.027626 Pitch = 0.101641 Yaw =60.605446
+Running Time = 0:00:00.038876 Roll = 0.026950 Pitch = 0.099890 Yaw =61.799758
+Running Time = 0:00:00.038984 Roll = 0.026471 Pitch = 0.101973 Yaw =60.502353
+Running Time = 0:00:00.038591 Roll = 0.028395 Pitch = 0.104663 Yaw =59.759366
+Running Time = 0:00:00.038092 Roll = 0.028530 Pitch = 0.101262 Yaw =61.548208
+Running Time = 0:00:00.038030 Roll = 0.026714 Pitch = 0.101061 Yaw =61.141260
+Running Time = 0:00:00.038097 Roll = 0.029673 Pitch = 0.102305 Yaw =61.750706
+Running Time = 0:00:00.038052 Roll = 0.025544 Pitch = 0.101814 Yaw =60.157396
+Running Time = 0:00:00.038041 Roll = 0.024829 Pitch = 0.103663 Yaw =60.245526
+Running Time = 0:00:00.038033 Roll = 0.026241 Pitch = 0.101530 Yaw =59.697548
+Running Time = 0:00:00.038063 Roll = 0.028368 Pitch = 0.101992 Yaw =60.337680
+Running Time = 0:00:00.037997 Roll = 0.024432 Pitch = 0.103043 Yaw =58.535252
+Running Time = 0:00:00.038054 Roll = 0.024311 Pitch = 0.102770 Yaw =60.114891
+Running Time = 0:00:00.039079 Roll = 0.026708 Pitch = 0.104778 Yaw =59.762324
+Running Time = 0:00:00.038065 Roll = 0.029029 Pitch = 0.102757 Yaw =60.767504
+Running Time = 0:00:00.037983 Roll = 0.027232 Pitch = 0.100991 Yaw =61.785795
+Running Time = 0:00:00.037991 Roll = 0.026235 Pitch = 0.101272 Yaw =61.009523
+Running Time = 0:00:00.038037 Roll = 0.027856 Pitch = 0.102551 Yaw =60.885231
+Running Time = 0:00:00.037961 Roll = 0.028652 Pitch = 0.102862 Yaw =60.622095
+Running Time = 0:00:00.038606 Roll = 0.028868 Pitch = 0.102789 Yaw =61.635364
+Running Time = 0:00:00.038447 Roll = 0.026733 Pitch = 0.103239 Yaw =61.098555
+Running Time = 0:00:00.038741 Roll = 0.027161 Pitch = 0.099328 Yaw =62.574078
+Running Time = 0:00:00.038828 Roll = 0.024506 Pitch = 0.103999 Yaw =60.013381
+Running Time = 0:00:00.039041 Roll = 0.029036 Pitch = 0.103248 Yaw =61.107521
+Running Time = 0:00:00.038568 Roll = 0.026509 Pitch = 0.102117 Yaw =61.320873
+Running Time = 0:00:00.039185 Roll = 0.026241 Pitch = 0.102232 Yaw =60.885765
+Running Time = 0:00:00.038779 Roll = 0.026054 Pitch = 0.103128 Yaw =60.383343
+Running Time = 0:00:00.038021 Roll = 0.026758 Pitch = 0.100993 Yaw =61.718019
+Running Time = 0:00:00.037955 Roll = 0.025769 Pitch = 0.101531 Yaw =59.735290
+Running Time = 0:00:00.038028 Roll = 0.027033 Pitch = 0.099097 Yaw =61.996925
+Running Time = 0:00:00.037998 Roll = 0.026085 Pitch = 0.102545 Yaw =61.005147
+Running Time = 0:00:00.038109 Roll = 0.028085 Pitch = 0.102059 Yaw =60.738806
+Running Time = 0:00:00.037985 Roll = 0.027685 Pitch = 0.104899 Yaw =60.140101
+Running Time = 0:00:00.037977 Roll = 0.026861 Pitch = 0.101196 Yaw =61.813312
+Running Time = 0:00:00.038046 Roll = 0.029022 Pitch = 0.100398 Yaw =61.159453
+Running Time = 0:00:00.038026 Roll = 0.029633 Pitch = 0.101807 Yaw =61.981824
+Running Time = 0:00:00.037980 Roll = 0.026708 Pitch = 0.103142 Yaw =61.255521
+Running Time = 0:00:00.038080 Roll = 0.027692 Pitch = 0.103285 Yaw =61.248567
+Running Time = 0:00:00.037992 Roll = 0.027455 Pitch = 0.102349 Yaw =60.725478
+Running Time = 0:00:00.038076 Roll = 0.026173 Pitch = 0.101035 Yaw =60.638621
+Running Time = 0:00:00.037982 Roll = 0.026855 Pitch = 0.100239 Yaw =61.069361
+Running Time = 0:00:00.037956 Roll = 0.026465 Pitch = 0.103586 Yaw =60.328456
+Running Time = 0:00:00.038366 Roll = 0.026982 Pitch = 0.105393 Yaw =59.948646
+Running Time = 0:00:00.038552 Roll = 0.026982 Pitch = 0.102350 Yaw =60.589099
+Running Time = 0:00:00.038506 Roll = 0.028172 Pitch = 0.102371 Yaw =61.194697
+Running Time = 0:00:00.038623 Roll = 0.029077 Pitch = 0.100352 Yaw =61.937246
+Running Time = 0:00:00.038489 Roll = 0.025113 Pitch = 0.102451 Yaw =60.649274
+Running Time = 0:00:00.039336 Roll = 0.030008 Pitch = 0.103342 Yaw =60.573787
+Running Time = 0:00:00.038837 Roll = 0.027607 Pitch = 0.103204 Yaw =60.710015
+Running Time = 0:00:00.038653 Roll = 0.027980 Pitch = 0.101910 Yaw =62.093781
+Running Time = 0:00:00.038673 Roll = 0.027358 Pitch = 0.101989 Yaw =61.030430
+Running Time = 0:00:00.039285 Roll = 0.027705 Pitch = 0.103333 Yaw =61.046105
+Running Time = 0:00:00.038769 Roll = 0.027725 Pitch = 0.103406 Yaw =60.278754
+Running Time = 0:00:00.038631 Roll = 0.025962 Pitch = 0.104166 Yaw =60.140045
+Running Time = 0:00:00.038435 Roll = 0.028618 Pitch = 0.102177 Yaw =61.246186
+Running Time = 0:00:00.038436 Roll = 0.028747 Pitch = 0.103671 Yaw =61.237123
+Running Time = 0:00:00.038308 Roll = 0.026005 Pitch = 0.103870 Yaw =59.083537
+Running Time = 0:00:00.038337 Roll = 0.025538 Pitch = 0.101556 Yaw =61.218180
+Running Time = 0:00:00.038559 Roll = 0.027365 Pitch = 0.102480 Yaw =60.356077
+Running Time = 0:00:00.038583 Roll = 0.024989 Pitch = 0.104280 Yaw =60.171241
+Running Time = 0:00:00.038601 Roll = 0.028185 Pitch = 0.102419 Yaw =60.246603
+Running Time = 0:00:00.038560 Roll = 0.023180 Pitch = 0.108836 Yaw =57.200483
+Running Time = 0:00:00.038580 Roll = 0.023462 Pitch = 0.105066 Yaw =59.620586
+Running Time = 0:00:00.038585 Roll = 0.023982 Pitch = 0.108678 Yaw =58.188770
+Running Time = 0:00:00.038669 Roll = 0.029012 Pitch = 0.101416 Yaw =61.351801
+Running Time = 0:00:00.038749 Roll = 0.025012 Pitch = 0.101576 Yaw =60.788869
+Running Time = 0:00:00.038682 Roll = 0.027455 Pitch = 0.103285 Yaw =60.946349
+Running Time = 0:00:00.038656 Roll = 0.026372 Pitch = 0.099727 Yaw =61.901491
+Running Time = 0:00:00.038667 Roll = 0.027738 Pitch = 0.099701 Yaw =60.952860
+Running Time = 0:00:00.038532 Roll = 0.041684 Pitch = 0.084383 Yaw =69.332449
+Running Time = 0:00:00.038590 Roll = 0.021990 Pitch = 0.146645 Yaw =44.930608
+Running Time = 0:00:00.038704 Roll = 0.024651 Pitch = 0.137073 Yaw =48.168522
+Running Time = 0:00:00.038348 Roll = 0.025854 Pitch = 0.137165 Yaw =47.826740
+Running Time = 0:00:00.038306 Roll = 0.023957 Pitch = 0.135542 Yaw =47.290256
+Running Time = 0:00:00.038604 Roll = 0.019133 Pitch = 0.120115 Yaw =51.300072
+Running Time = 0:00:00.038665 Roll = 0.014151 Pitch = 0.124316 Yaw =48.117164
+Running Time = 0:00:00.038628 Roll = 0.033321 Pitch = 0.004720 Yaw =104.289143
+Running Time = 0:00:00.038487 Roll = 0.112114 Pitch = 0.123078 Yaw =65.336118
+Running Time = 0:00:00.038388 Roll = -0.103802 Pitch = 0.123286 Yaw =-11.089579
+Running Time = 0:00:00.038461 Roll = 0.093120 Pitch = 0.149604 Yaw =57.202434
+Running Time = 0:00:00.038599 Roll = 0.038826 Pitch = 0.120958 Yaw =54.868145
+Running Time = 0:00:00.038676 Roll = -0.056403 Pitch = 0.120319 Yaw =19.922096
+Running Time = 0:00:00.038546 Roll = 0.018612 Pitch = 0.133717 Yaw =46.359148
+Running Time = 0:00:00.038588 Roll = -0.114139 Pitch = 0.132420 Yaw =-16.551998
+Running Time = 0:00:00.038597 Roll = 0.079883 Pitch = 0.066327 Yaw =79.578281
+Running Time = 0:00:00.038615 Roll = 0.090922 Pitch = 0.106015 Yaw =68.389323
+Running Time = 0:00:00.038528 Roll = 0.097972 Pitch = 0.122558 Yaw =66.025918
+Running Time = 0:00:00.038670 Roll = 0.154242 Pitch = 0.095569 Yaw =76.564976
+Running Time = 0:00:00.038561 Roll = -0.096048 Pitch = 0.153479 Yaw =-2.504070
+Running Time = 0:00:00.038582 Roll = 0.005559 Pitch = 0.069114 Yaw =71.204028
+Running Time = 0:00:00.038519 Roll = -0.014295 Pitch = 0.094174 Yaw =53.127231
+Running Time = 0:00:00.038552 Roll = 0.039100 Pitch = 0.122089 Yaw =56.360814
+Running Time = 0:00:00.038644 Roll = 0.026777 Pitch = 0.113711 Yaw =57.554601
+Running Time = 0:00:00.038637 Roll = 0.024271 Pitch = 0.107262 Yaw =58.049185
+Running Time = 0:00:00.038701 Roll = 0.024645 Pitch = 0.109974 Yaw =57.162070
+Running Time = 0:00:00.038570 Roll = 0.023698 Pitch = 0.110444 Yaw =57.108695
+Running Time = 0:00:00.038602 Roll = 0.026733 Pitch = 0.108385 Yaw =57.711551
+Running Time = 0:00:00.038628 Roll = 0.025374 Pitch = 0.111220 Yaw =57.386408
+Running Time = 0:00:00.038609 Roll = 0.026291 Pitch = 0.107577 Yaw =58.980008
+Running Time = 0:00:00.038515 Roll = 0.025197 Pitch = 0.110544 Yaw =55.969827
+Running Time = 0:00:00.038589 Roll = 0.026048 Pitch = 0.109658 Yaw =57.598813
+Running Time = 0:00:00.038545 Roll = 0.447395 Pitch = -0.085336 Yaw =103.423738
+Running Time = 0:00:00.038609 Roll = -0.133847 Pitch = 0.054012 Yaw =-67.403943
+Running Time = 0:00:00.038530 Roll = -0.051472 Pitch = 0.080059 Yaw =40.469710
+Running Time = 0:00:00.038752 Roll = 0.024566 Pitch = 0.117973 Yaw =54.238696
+Running Time = 0:00:00.038634 Roll = 0.019950 Pitch = 0.128142 Yaw =50.004722
+Running Time = 0:00:00.038599 Roll = 0.043099 Pitch = 0.131120 Yaw =54.205136
+Running Time = 0:00:00.038786 Roll = 0.065453 Pitch = 0.144179 Yaw =54.609653
+Running Time = 0:00:00.038587 Roll = 0.030668 Pitch = 0.134436 Yaw =50.795593
+Running Time = 0:00:00.038619 Roll = 0.037861 Pitch = 0.124267 Yaw =54.617765
+Running Time = 0:00:00.038590 Roll = 0.023777 Pitch = 0.128385 Yaw =50.823208
+Running Time = 0:00:00.038669 Roll = 0.025278 Pitch = 0.117798 Yaw =54.195015
+Running Time = 0:00:00.038547 Roll = 0.029029 Pitch = 0.121165 Yaw =53.575719
+Running Time = 0:00:00.038655 Roll = 0.026272 Pitch = 0.119649 Yaw =54.528796
+Running Time = 0:00:00.038618 Roll = 0.022549 Pitch = 0.153026 Yaw =43.650552
+Running Time = 0:00:00.038709 Roll = -0.002373 Pitch = 0.100514 Yaw =52.482415
+Running Time = 0:00:00.038601 Roll = 0.011742 Pitch = 0.199087 Yaw =31.825227
+Running Time = 0:00:00.038693 Roll = 0.005434 Pitch = 0.187719 Yaw =31.970763
+Running Time = 0:00:00.038589 Roll = 0.013984 Pitch = 0.093556 Yaw =60.764902
+Running Time = 0:00:00.038571 Roll = 0.025551 Pitch = 0.152565 Yaw =44.451018
+Running Time = 0:00:00.038528 Roll = 0.076091 Pitch = 0.140787 Yaw =57.306860
+Running Time = 0:00:00.038570 Roll = 0.025372 Pitch = 0.272349 Yaw =26.558041
+Running Time = 0:00:00.038565 Roll = 0.075303 Pitch = 0.130350 Yaw =59.838787
+Running Time = 0:00:00.038659 Roll = 0.128960 Pitch = 0.139736 Yaw =64.955731
+Running Time = 0:00:00.038766 Roll = 0.126800 Pitch = 0.061933 Yaw =83.049756
+Running Time = 0:00:00.038560 Roll = 0.137535 Pitch = 0.155280 Yaw =62.682276
+Running Time = 0:00:00.038693 Roll = 0.156578 Pitch = 0.181362 Yaw =60.039588
+Running Time = 0:00:00.038563 Roll = 0.147069 Pitch = 0.203682 Yaw =55.304243
+Running Time = 0:00:00.038663 Roll = 0.194592 Pitch = 0.199456 Yaw =60.215417
+Running Time = 0:00:00.038582 Roll = 0.167382 Pitch = 0.148576 Yaw =66.534888
+Running Time = 0:00:00.039691 Roll = 0.180418 Pitch = 0.208421 Yaw =57.719639
+Running Time = 0:00:00.038642 Roll = 0.194251 Pitch = 0.183050 Yaw =62.846386
+Running Time = 0:00:00.038135 Roll = 0.230649 Pitch = 0.221816 Yaw =60.104352
+Running Time = 0:00:00.038533 Roll = 0.191841 Pitch = 0.156897 Yaw =67.124914
+Running Time = 0:00:00.038019 Roll = 0.192373 Pitch = 0.220369 Yaw =57.190320
+Running Time = 0:00:00.038096 Roll = 0.209391 Pitch = 0.189784 Yaw =62.959278
+Running Time = 0:00:00.038023 Roll = 0.217463 Pitch = 0.213461 Yaw =60.305560
+Running Time = 0:00:00.037949 Roll = 0.226159 Pitch = 0.212907 Yaw =61.093797
+Running Time = 0:00:00.037989 Roll = 0.169515 Pitch = 0.235566 Yaw =53.505219
+Running Time = 0:00:00.037998 Roll = 0.194473 Pitch = 0.179471 Yaw =64.002823
+Running Time = 0:00:00.037973 Roll = 0.206324 Pitch = 0.190206 Yaw =63.192249
+Running Time = 0:00:00.037936 Roll = 0.191131 Pitch = 0.160505 Yaw =66.826669
+Running Time = 0:00:00.038011 Roll = 0.194751 Pitch = 0.120560 Yaw =73.888355
+Running Time = 0:00:00.038005 Roll = 0.188002 Pitch = 0.163452 Yaw =66.607509
+Running Time = 0:00:00.038011 Roll = 0.174539 Pitch = 0.150400 Yaw =67.400544
+Running Time = 0:00:00.037937 Roll = 0.180892 Pitch = 0.160146 Yaw =66.217042
+Running Time = 0:00:00.037979 Roll = 0.178502 Pitch = 0.180042 Yaw =62.485305
+Running Time = 0:00:00.037982 Roll = 0.190244 Pitch = 0.148266 Yaw =68.978867
+Running Time = 0:00:00.038018 Roll = 0.183629 Pitch = 0.140871 Yaw =69.871959
+Running Time = 0:00:00.038007 Roll = 0.172446 Pitch = 0.146667 Yaw =67.698158
+Running Time = 0:00:00.037990 Roll = 0.162888 Pitch = 0.132231 Yaw =69.687737
+Running Time = 0:00:00.038535 Roll = 0.165942 Pitch = 0.150530 Yaw =66.557996
+Running Time = 0:00:00.038522 Roll = 0.124096 Pitch = 0.104390 Yaw =73.063605
+Running Time = 0:00:00.038583 Roll = 0.129218 Pitch = 0.139188 Yaw =64.991196
+Running Time = 0:00:00.038497 Roll = 0.100010 Pitch = 0.125848 Yaw =65.093840
+Running Time = 0:00:00.038503 Roll = 0.092641 Pitch = 0.106609 Yaw =69.479664
+Running Time = 0:00:00.038499 Roll = 0.100740 Pitch = 0.120537 Yaw =66.697611
+Running Time = 0:00:00.038713 Roll = 0.087536 Pitch = 0.112711 Yaw =67.617320
+Running Time = 0:00:00.038502 Roll = 0.069101 Pitch = 0.110118 Yaw =65.403215
+Running Time = 0:00:00.038588 Roll = 0.301592 Pitch = 0.367482 Yaw =48.568737
+Running Time = 0:00:00.038528 Roll = 0.111317 Pitch = 0.164765 Yaw =57.793859
+Running Time = 0:00:00.038545 Roll = 0.192082 Pitch = 0.112410 Yaw =74.927983
+Running Time = 0:00:00.038468 Roll = 0.104507 Pitch = 0.147008 Yaw =60.875508
+Running Time = 0:00:00.038502 Roll = 0.096893 Pitch = 0.102901 Yaw =70.970187
+Running Time = 0:00:00.038534 Roll = 0.135662 Pitch = 0.104397 Yaw =74.233972
+Running Time = 0:00:00.038516 Roll = 0.141038 Pitch = 0.154964 Yaw =63.242149
+Running Time = 0:00:00.038461 Roll = 0.159820 Pitch = 0.134202 Yaw =69.305616
+Running Time = 0:00:00.038554 Roll = 0.162228 Pitch = 0.114178 Yaw =73.039569
+Running Time = 0:00:00.038554 Roll = 0.163984 Pitch = 0.181968 Yaw =60.771510
+Running Time = 0:00:00.038604 Roll = 0.181484 Pitch = 0.160427 Yaw =65.981147
+Running Time = 0:00:00.038583 Roll = 0.147388 Pitch = 0.124307 Yaw =70.522357
+Running Time = 0:00:00.038468 Roll = 0.157975 Pitch = 0.187179 Yaw =59.188767
+Running Time = 0:00:00.038543 Roll = 0.155755 Pitch = 0.184374 Yaw =59.278297
+Running Time = 0:00:00.038525 Roll = 0.164538 Pitch = 0.122292 Yaw =71.165100
+Running Time = 0:00:00.038597 Roll = 0.167452 Pitch = 0.190908 Yaw =58.964728
+Running Time = 0:00:00.038476 Roll = 0.164166 Pitch = 0.203320 Yaw =56.580625
+Running Time = 0:00:00.038557 Roll = 0.170813 Pitch = 0.186291 Yaw =60.201359
+Running Time = 0:00:00.038549 Roll = 0.195540 Pitch = 0.272937 Yaw =50.348303
+Running Time = 0:00:00.038603 Roll = 0.211287 Pitch = 0.222604 Yaw =57.944576
+Running Time = 0:00:00.038469 Roll = 0.201746 Pitch = 0.252215 Yaw =53.216441
+Running Time = 0:00:00.038522 Roll = 0.180967 Pitch = 0.276799 Yaw =48.083104
+Running Time = 0:00:00.038504 Roll = 0.200750 Pitch = 0.281355 Yaw =49.195400
+Running Time = 0:00:00.038599 Roll = 0.193445 Pitch = 0.276257 Yaw =49.291107
+Running Time = 0:00:00.038487 Roll = 0.199005 Pitch = 0.168561 Yaw =64.453122
+Running Time = 0:00:00.038527 Roll = 0.222090 Pitch = 0.313389 Yaw =47.680607
+Running Time = 0:00:00.038754 Roll = 0.217868 Pitch = 0.248339 Yaw =54.657206
+Running Time = 0:00:00.038751 Roll = 0.222716 Pitch = 0.236313 Yaw =56.926087
+Running Time = 0:00:00.039236 Roll = 0.188968 Pitch = 0.194443 Yaw =59.974679
+Running Time = 0:00:00.038310 Roll = 0.173017 Pitch = 0.223644 Yaw =54.804144
+Running Time = 0:00:00.038307 Roll = 0.188810 Pitch = 0.190873 Yaw =60.871204
+Running Time = 0:00:00.038675 Roll = 0.199928 Pitch = 0.194466 Yaw =61.124587
+Running Time = 0:00:00.038608 Roll = 0.158174 Pitch = 0.167157 Yaw =62.026606
+Running Time = 0:00:00.038663 Roll = 0.172473 Pitch = 0.156020 Yaw =65.226163
+Running Time = 0:00:00.038656 Roll = 0.214407 Pitch = 0.125135 Yaw =74.046095
+Running Time = 0:00:00.038667 Roll = 0.160503 Pitch = 0.052473 Yaw =86.543995
+Running Time = 0:00:00.038736 Roll = 0.126992 Pitch = 0.123022 Yaw =68.357033
+Running Time = 0:00:00.038616 Roll = 0.148715 Pitch = 0.129743 Yaw =68.795872
+Running Time = 0:00:00.038722 Roll = 0.130201 Pitch = 0.103587 Yaw =73.758245
+Running Time = 0:00:00.038644 Roll = 0.116267 Pitch = 0.154688 Yaw =60.630717
+Running Time = 0:00:00.039067 Roll = 0.146809 Pitch = 0.118330 Yaw =71.018460
+Running Time = 0:00:00.038653 Roll = 0.113020 Pitch = 0.075379 Yaw =79.098080
+Running Time = 0:00:00.038564 Roll = 0.074503 Pitch = 0.186746 Yaw =48.019728
+Running Time = 0:00:00.038570 Roll = 0.096536 Pitch = 0.123331 Yaw =64.260981
+Running Time = 0:00:00.038821 Roll = 0.064090 Pitch = 0.058864 Yaw =81.533267
+Running Time = 0:00:00.038515 Roll = 0.065823 Pitch = 0.117847 Yaw =62.410220
+Running Time = 0:00:00.038581 Roll = 0.045563 Pitch = 0.074202 Yaw =74.184598
+Running Time = 0:00:00.038551 Roll = 0.030738 Pitch = 0.148081 Yaw =45.981672
+Running Time = 0:00:00.038567 Roll = 0.052943 Pitch = 0.206846 Yaw =38.828004
+Running Time = 0:00:00.038475 Roll = 0.054087 Pitch = 0.104586 Yaw =63.451684
+Running Time = 0:00:00.042305 Roll = 0.042861 Pitch = 0.117464 Yaw =56.914690
+Running Time = 0:00:00.038584 Roll = 0.040063 Pitch = 0.112379 Yaw =57.988158
+Running Time = 0:00:00.038521 Roll = 0.033946 Pitch = 0.121625 Yaw =53.751985
+Running Time = 0:00:00.038628 Roll = 0.036309 Pitch = 0.108944 Yaw =58.944933
+Running Time = 0:00:00.038538 Roll = 0.057619 Pitch = 0.125574 Yaw =57.763353
+Running Time = 0:00:00.038593 Roll = 0.032892 Pitch = 0.118113 Yaw =54.463785
+Running Time = 0:00:00.038529 Roll = 0.042937 Pitch = 0.109996 Yaw =60.712778
+Running Time = 0:00:00.038753 Roll = 0.040064 Pitch = 0.120058 Yaw =55.848740
+Running Time = 0:00:00.038675 Roll = 0.044537 Pitch = 0.125522 Yaw =55.861763
+Running Time = 0:00:00.038679 Roll = 0.035699 Pitch = 0.121766 Yaw =55.014737
+Running Time = 0:00:00.038516 Roll = 0.031338 Pitch = 0.112798 Yaw =57.148139
+Running Time = 0:00:00.038502 Roll = 0.024063 Pitch = 0.116240 Yaw =53.767124
+Running Time = 0:00:00.038447 Roll = 0.028299 Pitch = 0.116221 Yaw =55.160345
+Running Time = 0:00:00.038565 Roll = 0.025830 Pitch = 0.116520 Yaw =54.251303
+Running Time = 0:00:00.038513 Roll = 0.028957 Pitch = 0.112486 Yaw =55.959454
+Running Time = 0:00:00.038574 Roll = 0.025635 Pitch = 0.123263 Yaw =51.842487
+Running Time = 0:00:00.038562 Roll = 0.026104 Pitch = 0.121596 Yaw =51.696742
+Running Time = 0:00:00.038484 Roll = 0.022965 Pitch = 0.132269 Yaw =48.363206
+Running Time = 0:00:00.038529 Roll = 0.021601 Pitch = 0.126164 Yaw =49.793442
+Running Time = 0:00:00.038508 Roll = 0.028378 Pitch = 0.145172 Yaw =45.050987
+Running Time = 0:00:00.038650 Roll = 0.039393 Pitch = 0.145451 Yaw =48.160429
+Running Time = 0:00:00.038517 Roll = 0.027679 Pitch = 0.155411 Yaw =42.176029
+Running Time = 0:00:00.038501 Roll = 0.026773 Pitch = 0.156200 Yaw =42.537716
+Running Time = 0:00:00.038542 Roll = 0.016193 Pitch = 0.153560 Yaw =40.700475
+Running Time = 0:00:00.038543 Roll = 0.020313 Pitch = 0.145446 Yaw =43.165082
+Running Time = 0:00:00.038487 Roll = 0.019357 Pitch = 0.137486 Yaw =45.039824
+Running Time = 0:00:00.038521 Roll = 0.024669 Pitch = 0.117803 Yaw =52.294624
+Running Time = 0:00:00.038513 Roll = 0.023224 Pitch = 0.119332 Yaw =51.879816
+Running Time = 0:00:00.038688 Roll = 0.024616 Pitch = 0.117321 Yaw =52.791775
+Running Time = 0:00:00.038589 Roll = 0.012983 Pitch = 0.147972 Yaw =41.141526
+Running Time = 0:00:00.038622 Roll = 0.026241 Pitch = 0.112280 Yaw =56.037126
+Running Time = 0:00:00.038613 Roll = 0.023004 Pitch = 0.114270 Yaw =54.047582
+Running Time = 0:00:00.038650 Roll = 0.032239 Pitch = 0.105717 Yaw =59.784428
+Running Time = 0:00:00.038673 Roll = 0.028138 Pitch = 0.109965 Yaw =57.566251
+Running Time = 0:00:00.038606 Roll = 0.025842 Pitch = 0.116809 Yaw =54.639186
+Running Time = 0:00:00.038638 Roll = 0.011671 Pitch = 0.117791 Yaw =50.065870
+Running Time = 0:00:00.038668 Roll = 0.028375 Pitch = 0.112766 Yaw =56.864484
+Running Time = 0:00:00.038648 Roll = 0.025551 Pitch = 0.109790 Yaw =56.734964
+Running Time = 0:00:00.038572 Roll = 0.027040 Pitch = 0.107961 Yaw =58.684539
+Running Time = 0:00:00.038616 Roll = 0.026758 Pitch = 0.107316 Yaw =58.443446
+Running Time = 0:00:00.038615 Roll = 0.024126 Pitch = 0.108834 Yaw =57.911373
+Running Time = 0:00:00.038681 Roll = 0.025999 Pitch = 0.105715 Yaw =59.470315
+Running Time = 0:00:00.038565 Roll = 0.025350 Pitch = 0.107839 Yaw =58.270804
+Running Time = 0:00:00.038624 Roll = 0.026944 Pitch = 0.102907 Yaw =60.479316
+Running Time = 0:00:00.038624 Roll = 0.028178 Pitch = 0.103566 Yaw =59.824654
+Running Time = 0:00:00.038642 Roll = 0.026670 Pitch = 0.102530 Yaw =59.803745
+Running Time = 0:00:00.038579 Roll = 0.026303 Pitch = 0.108330 Yaw =58.386880
+Running Time = 0:00:00.038607 Roll = 0.027902 Pitch = 0.103655 Yaw =59.434084
+Running Time = 0:00:00.038645 Roll = 0.025599 Pitch = 0.105546 Yaw =59.574185
+Running Time = 0:00:00.038605 Roll = 0.025854 Pitch = 0.107261 Yaw =58.932876
+Running Time = 0:00:00.039068 Roll = 0.026860 Pitch = 0.108661 Yaw =57.938727
+Running Time = 0:00:00.042040 Roll = 0.027078 Pitch = 0.105531 Yaw =59.407069
+Running Time = 0:00:00.038469 Roll = 0.027033 Pitch = 0.105123 Yaw =58.978239
+Running Time = 0:00:00.038902 Roll = 0.025593 Pitch = 0.102943 Yaw =59.955645
+Running Time = 0:00:00.038101 Roll = 0.028158 Pitch = 0.108640 Yaw =57.446913
+Running Time = 0:00:00.037942 Roll = 0.028198 Pitch = 0.103639 Yaw =59.826511
+Running Time = 0:00:00.038058 Roll = 0.023884 Pitch = 0.106472 Yaw =58.353546
+Running Time = 0:00:00.037985 Roll = 0.023912 Pitch = 0.108703 Yaw =56.265050
+Running Time = 0:00:00.038002 Roll = 0.026241 Pitch = 0.104570 Yaw =58.916127
+Running Time = 0:00:00.037944 Roll = 0.027698 Pitch = 0.104948 Yaw =58.749336
+Running Time = 0:00:00.037980 Roll = 0.025083 Pitch = 0.104438 Yaw =58.629519
+Running Time = 0:00:00.038014 Roll = 0.025532 Pitch = 0.103403 Yaw =58.778216
+Running Time = 0:00:00.037979 Roll = 0.025569 Pitch = 0.105422 Yaw =58.530802
+Running Time = 0:00:00.038026 Roll = 0.026988 Pitch = 0.104013 Yaw =59.236422
+Running Time = 0:00:00.038018 Roll = 0.027008 Pitch = 0.105258 Yaw =58.707218
+Running Time = 0:00:00.037945 Roll = 0.024906 Pitch = 0.107733 Yaw =56.397417
+Running Time = 0:00:00.037973 Roll = 0.025526 Pitch = 0.102443 Yaw =58.995051
+Running Time = 0:00:00.037974 Roll = 0.026241 Pitch = 0.106674 Yaw =58.245443
+Running Time = 0:00:00.037964 Roll = 0.027672 Pitch = 0.105317 Yaw =58.236454
+Running Time = 0:00:00.037956 Roll = 0.026223 Pitch = 0.103796 Yaw =59.620086
+Running Time = 0:00:00.037999 Roll = 0.024989 Pitch = 0.106207 Yaw =57.758136
+Running Time = 0:00:00.037917 Roll = 0.026085 Pitch = 0.104656 Yaw =59.249498
+Running Time = 0:00:00.037997 Roll = 0.026030 Pitch = 0.104669 Yaw =58.689547
+Running Time = 0:00:00.038653 Roll = 0.025987 Pitch = 0.108468 Yaw =57.407413
+Running Time = 0:00:00.038611 Roll = 0.026689 Pitch = 0.104471 Yaw =58.669701
+Running Time = 0:00:00.038622 Roll = 0.023957 Pitch = 0.106328 Yaw =57.634510
+Running Time = 0:00:00.038626 Roll = 0.026079 Pitch = 0.103459 Yaw =59.397944
+Running Time = 0:00:00.038623 Roll = 0.026822 Pitch = 0.104284 Yaw =59.467868
+Running Time = 0:00:00.038632 Roll = 0.026657 Pitch = 0.102949 Yaw =59.442305
+Running Time = 0:00:00.038688 Roll = 0.027290 Pitch = 0.104258 Yaw =60.292201
+Running Time = 0:00:00.038604 Roll = 0.028225 Pitch = 0.108192 Yaw =58.027200
+Running Time = 0:00:00.038509 Roll = 0.024552 Pitch = 0.104428 Yaw =59.092517
+Running Time = 0:00:00.038459 Roll = 0.025648 Pitch = 0.106215 Yaw =57.950165
+Running Time = 0:00:00.038703 Roll = 0.026291 Pitch = 0.100783 Yaw =60.486100
+Running Time = 0:00:00.038579 Roll = 0.026478 Pitch = 0.105037 Yaw =59.931649
+Running Time = 0:00:00.038617 Roll = 0.026714 Pitch = 0.105037 Yaw =58.967327
+Running Time = 0:00:00.038613 Roll = 0.027046 Pitch = 0.103999 Yaw =59.247792
+Running Time = 0:00:00.038681 Roll = 0.026746 Pitch = 0.105628 Yaw =58.588288
+Running Time = 0:00:00.038592 Roll = 0.027672 Pitch = 0.103680 Yaw =59.441255
+Running Time = 0:00:00.038619 Roll = 0.025143 Pitch = 0.106325 Yaw =57.901595
+Running Time = 0:00:00.038708 Roll = 0.026503 Pitch = 0.103732 Yaw =59.860754
+Running Time = 0:00:00.038691 Roll = 0.024853 Pitch = 0.104697 Yaw =58.487990
+Running Time = 0:00:00.038559 Roll = 0.026091 Pitch = 0.107730 Yaw =57.306684
+Running Time = 0:00:00.038669 Roll = 0.026465 Pitch = 0.104053 Yaw =58.763495
+Running Time = 0:00:00.038618 Roll = 0.026091 Pitch = 0.103273 Yaw =59.685966
+Running Time = 0:00:00.038639 Roll = 0.027475 Pitch = 0.104529 Yaw =61.038499
+Running Time = 0:00:00.038556 Roll = 0.028079 Pitch = 0.105069 Yaw =59.004723
+Running Time = 0:00:00.038630 Roll = 0.025332 Pitch = 0.103081 Yaw =60.064125
+Running Time = 0:00:00.038682 Roll = 0.024823 Pitch = 0.105743 Yaw =58.104002
+Running Time = 0:00:00.038694 Roll = 0.025042 Pitch = 0.104266 Yaw =58.848989
+Running Time = 0:00:00.038582 Roll = 0.024339 Pitch = 0.104293 Yaw =58.929346
+Running Time = 0:00:00.038629 Roll = 0.026235 Pitch = 0.102909 Yaw =59.898354
+Running Time = 0:00:00.038613 Roll = 0.026591 Pitch = 0.105013 Yaw =58.274597
+Running Time = 0:00:00.038652 Roll = 0.025968 Pitch = 0.101855 Yaw =60.041344
+Running Time = 0:00:00.038715 Roll = 0.024195 Pitch = 0.103748 Yaw =58.531032
+Running Time = 0:00:00.038771 Roll = 0.025314 Pitch = 0.104179 Yaw =59.025616
+Running Time = 0:00:00.038523 Roll = 0.024143 Pitch = 0.105167 Yaw =57.925197
+Running Time = 0:00:00.038488 Roll = 0.023889 Pitch = 0.104860 Yaw =58.065103
+Running Time = 0:00:00.038458 Roll = 0.025799 Pitch = 0.103290 Yaw =58.848401
+Running Time = 0:00:00.038484 Roll = 0.026471 Pitch = 0.105948 Yaw =57.990201
+Running Time = 0:00:00.038631 Roll = 0.025575 Pitch = 0.106852 Yaw =58.076218
+Running Time = 0:00:00.038666 Roll = 0.027468 Pitch = 0.104271 Yaw =58.608826
+Running Time = 0:00:00.038575 Roll = 0.025611 Pitch = 0.103250 Yaw =59.947190
+Running Time = 0:00:00.038630 Roll = 0.024409 Pitch = 0.104118 Yaw =59.469710
+Running Time = 0:00:00.038633 Roll = 0.028232 Pitch = 0.104700 Yaw =59.264026
+Running Time = 0:00:00.038632 Roll = 0.027475 Pitch = 0.103592 Yaw =59.770407
+Running Time = 0:00:00.038609 Roll = 0.027206 Pitch = 0.102067 Yaw =61.197722
+Running Time = 0:00:00.038642 Roll = 0.024420 Pitch = 0.102760 Yaw =58.393087
+Running Time = 0:00:00.038603 Roll = 0.027876 Pitch = 0.102389 Yaw =59.810799
+Running Time = 0:00:00.038606 Roll = 0.025332 Pitch = 0.104720 Yaw =58.425764
+Running Time = 0:00:00.038603 Roll = 0.026777 Pitch = 0.105049 Yaw =58.786711
+Running Time = 0:00:00.038603 Roll = 0.026739 Pitch = 0.105135 Yaw =58.136919
+Running Time = 0:00:00.038620 Roll = 0.025569 Pitch = 0.104954 Yaw =57.905275
+Running Time = 0:00:00.038625 Roll = 0.025290 Pitch = 0.103613 Yaw =60.243304
+Running Time = 0:00:00.038642 Roll = 0.027488 Pitch = 0.104344 Yaw =59.208319
+Running Time = 0:00:00.038582 Roll = 0.025308 Pitch = 0.103686 Yaw =59.232968
+Running Time = 0:00:00.038616 Roll = 0.026272 Pitch = 0.102820 Yaw =59.406839
+Running Time = 0:00:00.038603 Roll = 0.026484 Pitch = 0.105062 Yaw =58.203473
+Running Time = 0:00:00.038910 Roll = 0.027659 Pitch = 0.106203 Yaw =58.237102
+Running Time = 0:00:00.038587 Roll = 0.026017 Pitch = 0.104152 Yaw =58.420771
+Running Time = 0:00:00.038652 Roll = 0.026995 Pitch = 0.104506 Yaw =59.193647
+Running Time = 0:00:00.038697 Roll = 0.026496 Pitch = 0.105813 Yaw =58.445904
+Running Time = 0:00:00.038890 Roll = 0.027264 Pitch = 0.106738 Yaw =57.924788
+Running Time = 0:00:00.038592 Roll = 0.025587 Pitch = 0.104794 Yaw =58.973357
+Running Time = 0:00:00.038628 Roll = 0.028375 Pitch = 0.105992 Yaw =58.608766
+Running Time = 0:00:00.038628 Roll = 0.027646 Pitch = 0.104751 Yaw =59.745068
+Running Time = 0:00:00.038674 Roll = 0.023884 Pitch = 0.105069 Yaw =58.220583
+Running Time = 0:00:00.038564 Roll = 0.028112 Pitch = 0.105426 Yaw =57.615917
+Running Time = 0:00:00.038591 Roll = 0.026471 Pitch = 0.104545 Yaw =59.411831
+Running Time = 0:00:00.038721 Roll = 0.026060 Pitch = 0.105729 Yaw =58.365145
+Running Time = 0:00:00.038454 Roll = 0.026566 Pitch = 0.105149 Yaw =58.658340
+Running Time = 0:00:00.038660 Roll = 0.026471 Pitch = 0.104311 Yaw =59.295079
+Running Time = 0:00:00.038631 Roll = 0.023592 Pitch = 0.105057 Yaw =58.827133
+Running Time = 0:00:00.038649 Roll = 0.027915 Pitch = 0.103937 Yaw =59.541343
+Running Time = 0:00:00.038623 Roll = 0.026969 Pitch = 0.104174 Yaw =59.992121
+Running Time = 0:00:00.038676 Roll = 0.026079 Pitch = 0.104866 Yaw =59.132245
+Running Time = 0:00:00.038596 Roll = 0.027384 Pitch = 0.103253 Yaw =61.202938
+Running Time = 0:00:00.038463 Roll = 0.027206 Pitch = 0.105343 Yaw =59.405757
+Running Time = 0:00:00.038453 Roll = 0.026547 Pitch = 0.106481 Yaw =59.128352
+Running Time = 0:00:00.038747 Roll = 0.024835 Pitch = 0.105325 Yaw =59.493818
+Running Time = 0:00:00.038618 Roll = 0.026758 Pitch = 0.104038 Yaw =59.863952
+Running Time = 0:00:00.038645 Roll = 0.026048 Pitch = 0.105446 Yaw =58.829379
+Running Time = 0:00:00.038471 Roll = 0.026758 Pitch = 0.103102 Yaw =59.499319
+Running Time = 0:00:00.038761 Roll = 0.026285 Pitch = 0.101697 Yaw =60.462317
+Running Time = 0:00:00.038382 Roll = 0.025830 Pitch = 0.102473 Yaw =59.561685
+Running Time = 0:00:00.038619 Roll = 0.023980 Pitch = 0.105020 Yaw =57.695468
+Running Time = 0:00:00.038630 Roll = 0.025538 Pitch = 0.103661 Yaw =59.414086
+Running Time = 0:00:00.038656 Roll = 0.029814 Pitch = 0.104892 Yaw =59.400188
+Running Time = 0:00:00.038912 Roll = 0.024651 Pitch = 0.102032 Yaw =59.933870
+Running Time = 0:00:00.038693 Roll = 0.025326 Pitch = 0.103057 Yaw =59.733049
+Running Time = 0:00:00.038688 Roll = 0.027961 Pitch = 0.105515 Yaw =58.330916
+Running Time = 0:00:00.038789 Roll = 0.025185 Pitch = 0.105326 Yaw =58.545906
+Running Time = 0:00:00.038662 Roll = 0.024698 Pitch = 0.104103 Yaw =58.616083
+Running Time = 0:00:00.038564 Roll = 0.023483 Pitch = 0.106330 Yaw =57.296465
+Running Time = 0:00:00.038663 Roll = 0.024894 Pitch = 0.102290 Yaw =60.234224
+Running Time = 0:00:00.038404 Roll = 0.026279 Pitch = 0.105420 Yaw =58.599098
+Running Time = 0:00:00.038612 Roll = 0.027091 Pitch = 0.105816 Yaw =58.301670
+Running Time = 0:00:00.038402 Roll = 0.028702 Pitch = 0.096212 Yaw =62.532180
+Running Time = 0:00:00.038611 Roll = 0.026509 Pitch = 0.101883 Yaw =60.071679
+Running Time = 0:00:00.038620 Roll = 0.026752 Pitch = 0.104014 Yaw =59.318731
+Running Time = 0:00:00.038533 Roll = 0.026515 Pitch = 0.104951 Yaw =58.731373
+Running Time = 0:00:00.038544 Roll = 0.025916 Pitch = 0.106809 Yaw =57.934926
+Running Time = 0:00:00.038625 Roll = 0.027001 Pitch = 0.105702 Yaw =58.962459
+Running Time = 0:00:00.038580 Roll = 0.026559 Pitch = 0.106765 Yaw =57.960485
+Running Time = 0:00:00.038587 Roll = 0.026822 Pitch = 0.103579 Yaw =59.161966
+Running Time = 0:00:00.038528 Roll = 0.025143 Pitch = 0.106560 Yaw =58.042931
+Running Time = 0:00:00.038557 Roll = 0.028550 Pitch = 0.103434 Yaw =59.205601
+Running Time = 0:00:00.038584 Roll = 0.027371 Pitch = 0.104371 Yaw =58.776522
+Running Time = 0:00:00.038633 Roll = 0.025569 Pitch = 0.105656 Yaw =57.801500
+Running Time = 0:00:00.038620 Roll = 0.028618 Pitch = 0.106484 Yaw =58.606421
+Running Time = 0:00:00.045375 Roll = 0.026471 Pitch = 0.106415 Yaw =57.216307
+Running Time = 0:00:00.049980 Roll = 0.026048 Pitch = 0.104743 Yaw =58.294648
+Running Time = 0:00:00.039007 Roll = 0.026528 Pitch = 0.103361 Yaw =60.442478
+Running Time = 0:00:00.038239 Roll = 0.025308 Pitch = 0.103686 Yaw =57.636654
+Running Time = 0:00:00.038025 Roll = 0.022976 Pitch = 0.104775 Yaw =58.085474
+Running Time = 0:00:00.037956 Roll = 0.027731 Pitch = 0.103899 Yaw =59.225333
+Running Time = 0:00:00.038007 Roll = 0.027685 Pitch = 0.103728 Yaw =60.224629
+Running Time = 0:00:00.037963 Roll = 0.026272 Pitch = 0.103523 Yaw =59.769829
+Running Time = 0:00:00.038242 Roll = 0.027199 Pitch = 0.105085 Yaw =59.448318
+Running Time = 0:00:00.037908 Roll = 0.028068 Pitch = 0.102384 Yaw =59.971438
+Running Time = 0:00:00.038004 Roll = 0.026079 Pitch = 0.104866 Yaw =58.578673
+Running Time = 0:00:00.037915 Roll = 0.025781 Pitch = 0.102749 Yaw =58.464463
+Running Time = 0:00:00.037976 Roll = 0.026291 Pitch = 0.103361 Yaw =59.652997
+Running Time = 0:00:00.037933 Roll = 0.028401 Pitch = 0.103517 Yaw =59.346225
+Running Time = 0:00:00.038000 Roll = 0.026708 Pitch = 0.102674 Yaw =58.876947
+Running Time = 0:00:00.037961 Roll = 0.027410 Pitch = 0.104752 Yaw =59.080246
+Running Time = 0:00:00.037951 Roll = 0.026727 Pitch = 0.104384 Yaw =59.517132
+Running Time = 0:00:00.038145 Roll = 0.026279 Pitch = 0.104484 Yaw =58.896028
+Running Time = 0:00:00.037927 Roll = 0.025775 Pitch = 0.103895 Yaw =58.849768
+Running Time = 0:00:00.037951 Roll = 0.027692 Pitch = 0.104689 Yaw =59.725267
+Running Time = 0:00:00.037993 Roll = 0.023647 Pitch = 0.103666 Yaw =59.028649
+Running Time = 0:00:00.038557 Roll = 0.025368 Pitch = 0.102523 Yaw =59.704628
+Running Time = 0:00:00.038699 Roll = 0.026727 Pitch = 0.101810 Yaw =59.184469
+Running Time = 0:00:00.038625 Roll = 0.025805 Pitch = 0.102377 Yaw =58.177793
+Running Time = 0:00:00.038478 Roll = 0.025830 Pitch = 0.105755 Yaw =57.876898
+Running Time = 0:00:00.038505 Roll = 0.027692 Pitch = 0.103987 Yaw =58.672641
+Running Time = 0:00:00.038415 Roll = 0.025544 Pitch = 0.105323 Yaw =58.686534
+Running Time = 0:00:00.038449 Roll = 0.024380 Pitch = 0.104230 Yaw =58.070868
+Running Time = 0:00:00.038559 Roll = 0.026366 Pitch = 0.103184 Yaw =60.190929
+Running Time = 0:00:00.038556 Roll = 0.025732 Pitch = 0.103724 Yaw =58.658187
+Running Time = 0:00:00.038486 Roll = 0.028455 Pitch = 0.105822 Yaw =59.322554
+Running Time = 0:00:00.038393 Roll = 0.026067 Pitch = 0.103879 Yaw =59.443173
+Running Time = 0:00:00.038521 Roll = 0.027494 Pitch = 0.103900 Yaw =59.668704
+Running Time = 0:00:00.038475 Roll = 0.025781 Pitch = 0.102515 Yaw =60.605310
+Running Time = 0:00:00.038453 Roll = 0.027429 Pitch = 0.103422 Yaw =60.118779
+Running Time = 0:00:00.038454 Roll = 0.024385 Pitch = 0.101912 Yaw =60.373310
+Running Time = 0:00:00.038470 Roll = 0.027059 Pitch = 0.103813 Yaw =60.087856
+Running Time = 0:00:00.038445 Roll = 0.027653 Pitch = 0.105009 Yaw =59.183924
+Running Time = 0:00:00.038427 Roll = 0.024800 Pitch = 0.103308 Yaw =58.816434
+Running Time = 0:00:00.038508 Roll = 0.024189 Pitch = 0.103723 Yaw =58.742045
+Running Time = 0:00:00.038526 Roll = 0.025993 Pitch = 0.101951 Yaw =59.981977
+Running Time = 0:00:00.038479 Roll = 0.026515 Pitch = 0.104015 Yaw =57.610722
+Running Time = 0:00:00.038543 Roll = 0.026790 Pitch = 0.101581 Yaw =59.825844
+Running Time = 0:00:00.038410 Roll = 0.026005 Pitch = 0.101998 Yaw =59.539740
+Running Time = 0:00:00.038548 Roll = 0.024657 Pitch = 0.106511 Yaw =58.056056
+Running Time = 0:00:00.038445 Roll = 0.030829 Pitch = 0.106171 Yaw =59.637867
+Running Time = 0:00:00.038533 Roll = 0.023726 Pitch = 0.104242 Yaw =57.888785
+Running Time = 0:00:00.038440 Roll = 0.026995 Pitch = 0.103804 Yaw =59.811769
+Running Time = 0:00:00.038536 Roll = 0.026285 Pitch = 0.103337 Yaw =60.399434
+Running Time = 0:00:00.038475 Roll = 0.025799 Pitch = 0.102587 Yaw =59.896763
+Running Time = 0:00:00.038556 Roll = 0.028455 Pitch = 0.104181 Yaw =59.839810
+Running Time = 0:00:00.038394 Roll = 0.028991 Pitch = 0.102285 Yaw =60.628807
+Running Time = 0:00:00.038519 Roll = 0.027277 Pitch = 0.101862 Yaw =60.018564
+Running Time = 0:00:00.038932 Roll = 0.027020 Pitch = 0.104370 Yaw =58.571699
+Running Time = 0:00:00.038603 Roll = 0.027462 Pitch = 0.100264 Yaw =60.382046
+Running Time = 0:00:00.038504 Roll = 0.026898 Pitch = 0.101753 Yaw =60.796403
+Running Time = 0:00:00.038475 Roll = 0.026098 Pitch = 0.105644 Yaw =58.756758
+Running Time = 0:00:00.038522 Roll = 0.023274 Pitch = 0.106690 Yaw =57.811545
+Running Time = 0:00:00.038624 Roll = 0.024137 Pitch = 0.103270 Yaw =60.720354
+Running Time = 0:00:00.038573 Roll = 0.027436 Pitch = 0.103914 Yaw =59.526062
+Running Time = 0:00:00.038620 Roll = 0.025824 Pitch = 0.102684 Yaw =59.707704
+Running Time = 0:00:00.038499 Roll = 0.023197 Pitch = 0.101423 Yaw =59.584856
+Running Time = 0:00:00.038446 Roll = 0.025569 Pitch = 0.103315 Yaw =59.234302
+Running Time = 0:00:00.038571 Roll = 0.027672 Pitch = 0.104849 Yaw =58.820418
+Running Time = 0:00:00.038630 Roll = 0.024241 Pitch = 0.104883 Yaw =58.704048
+Running Time = 0:00:00.038653 Roll = 0.028145 Pitch = 0.102275 Yaw =60.361797
+Running Time = 0:00:00.038621 Roll = 0.026899 Pitch = 0.102505 Yaw =59.988832
+Running Time = 0:00:00.039279 Roll = 0.025811 Pitch = 0.107319 Yaw =57.912066
+Running Time = 0:00:00.038619 Roll = 0.025018 Pitch = 0.102301 Yaw =59.643400
+Running Time = 0:00:00.038516 Roll = 0.027882 Pitch = 0.102179 Yaw =61.049235
+Running Time = 0:00:00.038542 Roll = 0.025308 Pitch = 0.102282 Yaw =60.304187
+Running Time = 0:00:00.038606 Roll = 0.028840 Pitch = 0.103862 Yaw =59.728625
+Running Time = 0:00:00.038458 Roll = 0.027942 Pitch = 0.102395 Yaw =60.415755
+Running Time = 0:00:00.038534 Roll = 0.026440 Pitch = 0.104656 Yaw =58.392190
+Running Time = 0:00:00.038549 Roll = 0.024189 Pitch = 0.104192 Yaw =58.763206
+Running Time = 0:00:00.038591 Roll = 0.028916 Pitch = 0.101551 Yaw =61.480554
+Running Time = 0:00:00.038495 Roll = 0.025824 Pitch = 0.102918 Yaw =59.171435
+Running Time = 0:00:00.038521 Roll = 0.025824 Pitch = 0.101981 Yaw =59.635069
+Running Time = 0:00:00.038520 Roll = 0.023597 Pitch = 0.104381 Yaw =57.983446
+Running Time = 0:00:00.038502 Roll = 0.027869 Pitch = 0.101898 Yaw =60.431053
+Running Time = 0:00:00.038485 Roll = 0.026982 Pitch = 0.106797 Yaw =58.111052
+Running Time = 0:00:00.038515 Roll = 0.026465 Pitch = 0.103118 Yaw =59.023918
+Running Time = 0:00:00.038565 Roll = 0.026484 Pitch = 0.102957 Yaw =59.764999
+Running Time = 0:00:00.038675 Roll = 0.027116 Pitch = 0.103132 Yaw =59.899215
+Running Time = 0:00:00.038619 Roll = 0.024835 Pitch = 0.102049 Yaw =59.435253
+Running Time = 0:00:00.038500 Roll = 0.025999 Pitch = 0.102442 Yaw =59.025947
+Running Time = 0:00:00.038500 Roll = 0.026204 Pitch = 0.103489 Yaw =59.138512
+Running Time = 0:00:00.038489 Roll = 0.028875 Pitch = 0.102813 Yaw =59.041488
+Running Time = 0:00:00.038565 Roll = 0.025980 Pitch = 0.104473 Yaw =58.465487
+Running Time = 0:00:00.038456 Roll = 0.025744 Pitch = 0.103072 Yaw =58.365814
+Running Time = 0:00:00.038510 Roll = 0.024109 Pitch = 0.105720 Yaw =57.992475
+Running Time = 0:00:00.038568 Roll = 0.026982 Pitch = 0.103521 Yaw =59.106006
+Running Time = 0:00:00.038603 Roll = 0.026048 Pitch = 0.103338 Yaw =59.629188
+Running Time = 0:00:00.038475 Roll = 0.025557 Pitch = 0.102798 Yaw =58.845341
+Running Time = 0:00:00.038546 Roll = 0.024137 Pitch = 0.104674 Yaw =58.586865
+Running Time = 0:00:00.038520 Roll = 0.026645 Pitch = 0.100801 Yaw =59.266129
+Running Time = 0:00:00.038500 Roll = 0.026079 Pitch = 0.103225 Yaw =59.451822
+Running Time = 0:00:00.038454 Roll = 0.025356 Pitch = 0.103647 Yaw =58.167904
+Running Time = 0:00:00.038509 Roll = 0.028409 Pitch = 0.099675 Yaw =61.477955
+Running Time = 0:00:00.038509 Roll = 0.025980 Pitch = 0.104707 Yaw =58.539269
+Running Time = 0:00:00.038519 Roll = 0.025635 Pitch = 0.104991 Yaw =58.530279
+Running Time = 0:00:00.038534 Roll = 0.023867 Pitch = 0.103125 Yaw =58.487504
+Running Time = 0:00:00.038506 Roll = 0.025054 Pitch = 0.105016 Yaw =59.436675
+Running Time = 0:00:00.038566 Roll = 0.026303 Pitch = 0.105051 Yaw =58.196544
+Running Time = 0:00:00.038574 Roll = 0.024686 Pitch = 0.102880 Yaw =58.562051
+Running Time = 0:00:00.038603 Roll = 0.026155 Pitch = 0.105626 Yaw =57.735608
+Running Time = 0:00:00.038457 Roll = 0.025787 Pitch = 0.103241 Yaw =57.749098
+Running Time = 0:00:00.038507 Roll = 0.025478 Pitch = 0.102018 Yaw =60.187585
+Running Time = 0:00:00.038503 Roll = 0.028361 Pitch = 0.103839 Yaw =59.435427
+Running Time = 0:00:00.038619 Roll = 0.027416 Pitch = 0.103841 Yaw =59.913913
+Running Time = 0:00:00.038454 Roll = 0.027928 Pitch = 0.103752 Yaw =58.642286
+Running Time = 0:00:00.038563 Roll = 0.026944 Pitch = 0.104310 Yaw =59.155569
+Running Time = 0:00:00.038566 Roll = 0.027001 Pitch = 0.101953 Yaw =59.751879
+Running Time = 0:00:00.038534 Roll = 0.027475 Pitch = 0.103358 Yaw =58.998637
+Running Time = 0:00:00.038459 Roll = 0.025757 Pitch = 0.105691 Yaw =58.701149
+Running Time = 0:00:00.038505 Roll = 0.026173 Pitch = 0.101502 Yaw =59.531298
+Running Time = 0:00:00.038543 Roll = -0.069327 Pitch = -0.041209 Yaw =170.128827
+Running Time = 0:00:00.038498 Roll = -0.050292 Pitch = 0.068982 Yaw =46.527780
+Running Time = 0:00:00.038502 Roll = 0.083141 Pitch = 0.168906 Yaw =51.390912
+Running Time = 0:00:00.038532 Roll = -0.036177 Pitch = 0.073444 Yaw =53.781715
+Running Time = 0:00:00.038602 Roll = 0.053449 Pitch = -0.108423 Yaw =136.439686
+Running Time = 0:00:00.038530 Roll = 0.058677 Pitch = 0.161746 Yaw =48.826832
+Running Time = 0:00:00.038541 Roll = 0.072324 Pitch = 0.151307 Yaw =53.283381
+Running Time = 0:00:00.038475 Roll = 0.014170 Pitch = 0.252387 Yaw =24.805173
+Running Time = 0:00:00.038512 Roll = 0.044385 Pitch = 0.238714 Yaw =31.045125
+Running Time = 0:00:00.038501 Roll = -0.061452 Pitch = 0.632496 Yaw =3.942151
+Running Time = 0:00:00.038573 Roll = -0.076262 Pitch = -0.152513 Yaw =174.300390
+Running Time = 0:00:00.038482 Roll = -0.006659 Pitch = 0.511387 Yaw =9.460625
+Running Time = 0:00:00.038545 Roll = -0.072594 Pitch = 0.881361 Yaw =3.233754
+Running Time = 0:00:00.038561 Roll = -0.315144 Pitch = 0.766750 Yaw =-9.809383
+Running Time = 0:00:00.038578 Roll = -0.045059 Pitch = 1.002005 Yaw =4.403048
+Running Time = 0:00:00.040241 Roll = -0.003094 Pitch = 1.116140 Yaw =5.680836
+Running Time = 0:00:00.038586 Roll = 0.029638 Pitch = 1.314057 Yaw =5.630955
+Running Time = 0:00:00.038605 Roll = 0.097638 Pitch = 1.449609 Yaw =5.359182
+Running Time = 0:00:00.038045 Roll = 0.243914 Pitch = 1.396715 Yaw =5.957493
+Running Time = 0:00:00.038022 Roll = 0.029181 Pitch = 1.305654 Yaw =5.415493
+Running Time = 0:00:00.037982 Roll = -0.072123 Pitch = 1.007100 Yaw =3.620057
+Running Time = 0:00:00.037976 Roll = 0.039303 Pitch = 1.005556 Yaw =6.874249
+Running Time = 0:00:00.037975 Roll = -0.099372 Pitch = 0.985809 Yaw =3.021240
+Running Time = 0:00:00.037950 Roll = -0.025500 Pitch = 1.017439 Yaw =5.291255
+Running Time = 0:00:00.037972 Roll = 0.066604 Pitch = 1.069435 Yaw =7.722909
+Running Time = 0:00:00.037965 Roll = 0.285292 Pitch = 1.195727 Yaw =10.735526
+Running Time = 0:00:00.037950 Roll = 1.276562 Pitch = 1.184167 Yaw =17.648363
+Running Time = 0:00:00.037982 Roll = 0.362949 Pitch = 1.316634 Yaw =10.001143
+Running Time = 0:00:00.037946 Roll = 0.609380 Pitch = 0.903226 Yaw =27.046351
+Running Time = 0:00:00.038011 Roll = 0.523127 Pitch = 0.780430 Yaw =31.239684
+Running Time = 0:00:00.037968 Roll = 0.308137 Pitch = 0.530872 Yaw =35.407515
+Running Time = 0:00:00.037968 Roll = 0.326827 Pitch = 0.584252 Yaw =34.584256
+Running Time = 0:00:00.037918 Roll = 0.230784 Pitch = 0.424244 Yaw =38.991708
+Running Time = 0:00:00.037950 Roll = 0.201088 Pitch = 0.081572 Yaw =81.781054
+Running Time = 0:00:00.037939 Roll = 0.234565 Pitch = 0.062457 Yaw =87.506388
+Running Time = 0:00:00.037961 Roll = 0.211609 Pitch = 0.132396 Yaw =74.061965
+Running Time = 0:00:00.037916 Roll = 0.201308 Pitch = 0.050738 Yaw =89.360854
+Running Time = 0:00:00.040059 Roll = 0.190992 Pitch = 0.218276 Yaw =57.106538
+Running Time = 0:00:00.038747 Roll = 0.150132 Pitch = 0.362175 Yaw =35.055482
+Running Time = 0:00:00.038792 Roll = 0.228532 Pitch = 0.495234 Yaw =32.230903
+Running Time = 0:00:00.038375 Roll = 0.226322 Pitch = 0.564236 Yaw =27.979793
+Running Time = 0:00:00.038411 Roll = 0.342629 Pitch = 0.772238 Yaw =24.747521
+Running Time = 0:00:00.038373 Roll = 0.377249 Pitch = 0.843951 Yaw =22.949690
+Running Time = 0:00:00.038653 Roll = 0.309151 Pitch = 1.109493 Yaw =13.289697
+Running Time = 0:00:00.038655 Roll = 0.700505 Pitch = 1.167240 Yaw =16.777437
+Running Time = 0:00:00.038641 Roll = 1.222303 Pitch = 1.398603 Yaw =6.452252
+Running Time = 0:00:00.038648 Roll = 0.911990 Pitch = 1.372516 Yaw =8.315208
+Running Time = 0:00:00.038662 Roll = 1.001762 Pitch = 1.301600 Yaw =11.312711
+Running Time = 0:00:00.038667 Roll = 0.371622 Pitch = 1.150627 Yaw =12.876862
+Running Time = 0:00:00.038679 Roll = 0.605367 Pitch = 1.200401 Yaw =13.983724
+Running Time = 0:00:00.038695 Roll = 0.382514 Pitch = 1.135079 Yaw =13.585963
+Running Time = 0:00:00.038653 Roll = 1.352127 Pitch = 1.330424 Yaw =9.409781
+Running Time = 0:00:00.038700 Roll = 0.672804 Pitch = 1.145637 Yaw =17.964138
+Running Time = 0:00:00.038576 Roll = 0.401229 Pitch = 0.845105 Yaw =24.009834
+Running Time = 0:00:00.038634 Roll = 0.341960 Pitch = 0.656527 Yaw =29.595743
+Running Time = 0:00:00.038656 Roll = 0.245084 Pitch = 0.401500 Yaw =39.388613
+Running Time = 0:00:00.038683 Roll = 0.231338 Pitch = 0.213021 Yaw =59.087842
+Running Time = 0:00:00.038592 Roll = 0.200521 Pitch = 0.095542 Yaw =78.550333
+Running Time = 0:00:00.038704 Roll = 0.158718 Pitch = 0.178484 Yaw =60.293373
+Running Time = 0:00:00.038710 Roll = 0.083474 Pitch = -0.044973 Yaw =121.842527
+Running Time = 0:00:00.038619 Roll = 0.035405 Pitch = -0.087039 Yaw =143.284576
+Running Time = 0:00:00.038577 Roll = -0.019487 Pitch = 0.127528 Yaw =38.574752
+Running Time = 0:00:00.038665 Roll = 0.091487 Pitch = 0.071443 Yaw =85.182873
+Running Time = 0:00:00.038656 Roll = 0.136294 Pitch = -0.032316 Yaw =112.921161
+Running Time = 0:00:00.038625 Roll = 0.101793 Pitch = -0.069097 Yaw =125.116974
+Running Time = 0:00:00.038652 Roll = 0.036090 Pitch = -0.095846 Yaw =143.652498
+Running Time = 0:00:00.038642 Roll = 0.006194 Pitch = 0.118051 Yaw =47.764556
+Running Time = 0:00:00.038631 Roll = 0.000182 Pitch = 0.049858 Yaw =85.442859
+Running Time = 0:00:00.038759 Roll = 0.076429 Pitch = 0.164977 Yaw =52.413277
+Running Time = 0:00:00.038728 Roll = 0.341990 Pitch = -0.102441 Yaw =109.739280
+Running Time = 0:00:00.038642 Roll = -0.112258 Pitch = 0.096810 Yaw =-36.879481
+Running Time = 0:00:00.038634 Roll = 0.241415 Pitch = 0.081248 Yaw =84.058622
+Running Time = 0:00:00.039040 Roll = 0.069227 Pitch = 0.011623 Yaw =102.886440
+Running Time = 0:00:00.038741 Roll = -0.023100 Pitch = 0.067789 Yaw =67.175456
+Running Time = 0:00:00.038579 Roll = -0.028503 Pitch = 0.047776 Yaw =90.493971
+Running Time = 0:00:00.038652 Roll = 0.044465 Pitch = 0.030534 Yaw =98.261214
+Running Time = 0:00:00.038692 Roll = 0.043324 Pitch = 0.034051 Yaw =96.052675
+Running Time = 0:00:00.038652 Roll = 0.040603 Pitch = 0.033814 Yaw =95.267039
+Running Time = 0:00:00.038559 Roll = 0.035448 Pitch = 0.034957 Yaw =95.556157
+Running Time = 0:00:00.038791 Roll = 0.036729 Pitch = 0.036228 Yaw =94.361433
+Running Time = 0:00:00.038783 Roll = 0.037571 Pitch = 0.036129 Yaw =94.386358
+Running Time = 0:00:00.038599 Roll = 0.035801 Pitch = 0.036017 Yaw =93.625635
+Running Time = 0:00:00.038404 Roll = 0.034905 Pitch = 0.036989 Yaw =95.103252
+Running Time = 0:00:00.038436 Roll = 0.037758 Pitch = 0.036092 Yaw =93.837622
+Running Time = 0:00:00.038604 Roll = 0.033913 Pitch = 0.039498 Yaw =93.049631
+Running Time = 0:00:00.038521 Roll = 0.035573 Pitch = 0.037432 Yaw =93.216508
+Running Time = 0:00:00.038657 Roll = 0.035202 Pitch = 0.034944 Yaw =94.623754
+Running Time = 0:00:00.038576 Roll = 0.037541 Pitch = 0.037280 Yaw =92.958463
+Running Time = 0:00:00.038671 Roll = 0.037135 Pitch = 0.036634 Yaw =94.488508
+Running Time = 0:00:00.038631 Roll = 0.037745 Pitch = 0.034420 Yaw =96.392011
+Running Time = 0:00:00.038626 Roll = 0.035069 Pitch = 0.035988 Yaw =96.321004
+Running Time = 0:00:00.038464 Roll = 0.034946 Pitch = 0.036096 Yaw =95.495701
+Running Time = 0:00:00.038586 Roll = 0.036010 Pitch = 0.037631 Yaw =94.175874
+Running Time = 0:00:00.038667 Roll = 0.038252 Pitch = 0.033037 Yaw =95.849189
+Running Time = 0:00:00.038713 Roll = 0.035296 Pitch = 0.037389 Yaw =94.447151
+Running Time = 0:00:00.038624 Roll = 0.036540 Pitch = 0.037457 Yaw =93.465053
+Running Time = 0:00:00.038747 Roll = 0.035917 Pitch = 0.034956 Yaw =94.660718
+Running Time = 0:00:00.038535 Roll = 0.036855 Pitch = 0.036127 Yaw =95.139474
+Running Time = 0:00:00.038703 Roll = 0.036497 Pitch = 0.037178 Yaw =94.189866
+Running Time = 0:00:00.038472 Roll = 0.036408 Pitch = 0.035912 Yaw =95.078165
+Running Time = 0:00:00.038836 Roll = 0.038751 Pitch = 0.038015 Yaw =94.081378
+Running Time = 0:00:00.038776 Roll = 0.034040 Pitch = 0.037068 Yaw =95.541910
+Running Time = 0:00:00.038587 Roll = 0.035741 Pitch = 0.035249 Yaw =95.380761
+Running Time = 0:00:00.038759 Roll = 0.038470 Pitch = 0.034928 Yaw =95.737727
+Running Time = 0:00:00.038531 Roll = 0.036262 Pitch = 0.033887 Yaw =95.493273
+Running Time = 0:00:00.038692 Roll = 0.038678 Pitch = 0.037237 Yaw =94.356336
+Running Time = 0:00:00.038592 Roll = 0.035623 Pitch = 0.036779 Yaw =94.841277
+Running Time = 0:00:00.038644 Roll = 0.037282 Pitch = 0.037963 Yaw =94.446809
+Running Time = 0:00:00.038859 Roll = 0.034809 Pitch = 0.035023 Yaw =96.011875
+Running Time = 0:00:00.038607 Roll = 0.034566 Pitch = 0.036659 Yaw =95.160215
+Running Time = 0:00:00.038612 Roll = 0.036821 Pitch = 0.036327 Yaw =95.449021
+Running Time = 0:00:00.038954 Roll = 0.034364 Pitch = 0.037634 Yaw =94.257167
+Running Time = 0:00:00.038798 Roll = 0.034021 Pitch = 0.035889 Yaw =94.836066
+Running Time = 0:00:00.038477 Roll = 0.035321 Pitch = 0.036239 Yaw =94.453170
+Running Time = 0:00:00.038400 Roll = 0.035724 Pitch = 0.037109 Yaw =93.686353
+Running Time = 0:00:00.038345 Roll = 0.035481 Pitch = 0.039447 Yaw =92.805336
+Running Time = 0:00:00.038281 Roll = 0.037177 Pitch = 0.037386 Yaw =93.037459
+Running Time = 0:00:00.038906 Roll = 0.034648 Pitch = 0.034862 Yaw =95.926363
+Running Time = 0:00:00.038620 Roll = 0.033925 Pitch = 0.039081 Yaw =93.838067
+Running Time = 0:00:00.038554 Roll = 0.035808 Pitch = 0.036021 Yaw =94.116790
+Running Time = 0:00:00.038681 Roll = 0.036898 Pitch = 0.036404 Yaw =94.740434
+Running Time = 0:00:00.038582 Roll = 0.036480 Pitch = 0.035516 Yaw =94.149760
+Running Time = 0:00:00.038735 Roll = 0.034826 Pitch = 0.038094 Yaw =94.269804
+Running Time = 0:00:00.038605 Roll = 0.036052 Pitch = 0.039322 Yaw =93.427623
+Running Time = 0:00:00.038940 Roll = 0.035842 Pitch = 0.036761 Yaw =94.106575
+Running Time = 0:00:00.038543 Roll = 0.036497 Pitch = 0.035768 Yaw =95.647267
+Running Time = 0:00:00.038547 Roll = 0.036480 Pitch = 0.036456 Yaw =94.539318
+Running Time = 0:00:00.038758 Roll = 0.037456 Pitch = 0.037195 Yaw =93.400928
+Running Time = 0:00:00.038673 Roll = 0.035910 Pitch = 0.037302 Yaw =94.372925
+Running Time = 0:00:00.038664 Roll = 0.036228 Pitch = 0.035030 Yaw =95.007847
+Running Time = 0:00:00.038623 Roll = 0.036707 Pitch = 0.036917 Yaw =93.303065
+Running Time = 0:00:00.038615 Roll = 0.037430 Pitch = 0.038108 Yaw =93.540660
+Running Time = 0:00:00.038762 Roll = 0.036872 Pitch = 0.036144 Yaw =95.039748
+Running Time = 0:00:00.038582 Roll = 0.037775 Pitch = 0.035874 Yaw =94.203080
+Running Time = 0:00:00.038741 Roll = 0.038914 Pitch = 0.037472 Yaw =93.804630
+Running Time = 0:00:00.038553 Roll = 0.036713 Pitch = 0.037635 Yaw =93.013157
+Running Time = 0:00:00.038609 Roll = 0.036985 Pitch = 0.036960 Yaw =95.020953
+Running Time = 0:00:00.038829 Roll = 0.036898 Pitch = 0.036169 Yaw =94.763021
+Running Time = 0:00:00.038601 Roll = 0.037221 Pitch = 0.038371 Yaw =93.397515
+Running Time = 0:00:00.038641 Roll = 0.036292 Pitch = 0.037437 Yaw =94.145910
+Running Time = 0:00:00.038608 Roll = 0.035061 Pitch = 0.037154 Yaw =93.995991
+Running Time = 0:00:00.038620 Roll = 0.035540 Pitch = 0.037867 Yaw =94.283789
+Running Time = 0:00:00.038523 Roll = 0.038171 Pitch = 0.036261 Yaw =93.171258
+Running Time = 0:00:00.038554 Roll = 0.035404 Pitch = 0.035618 Yaw =94.710728
+Running Time = 0:00:00.040600 Roll = 0.036707 Pitch = 0.036917 Yaw =94.212704
+Running Time = 0:00:00.038555 Roll = 0.037386 Pitch = 0.035481 Yaw =95.431540
+Running Time = 0:00:00.038796 Roll = 0.038424 Pitch = 0.037219 Yaw =94.758398
+Running Time = 0:00:00.038422 Roll = 0.035984 Pitch = 0.036666 Yaw =94.291468
