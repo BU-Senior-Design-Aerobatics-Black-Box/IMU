@@ -148,7 +148,7 @@ def kalmanFilterX ( accAngle, gyroRate, DT):
 
     return KFangleX
 
-
+#time.sleep(3)
 IMU.detectIMU()     #Detect if BerryIMU is connected.
 if(IMU.BerryIMUversion == 99):
     print(" No BerryIMU found... exiting ")
