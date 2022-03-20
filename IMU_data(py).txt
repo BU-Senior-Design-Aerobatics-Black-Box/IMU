@@ -891,16 +891,4 @@ Running Time = 0:00:00.038575 Roll = 0.122368 Pitch = 0.077371 Yaw =40.154694
 Running Time = 0:00:00.039011 Roll = 0.121632 Pitch = 0.075160 Yaw =39.825278
 Running Time = 0:00:00.043466 Roll = 0.120439 Pitch = 0.076885 Yaw =39.783106
 Running Time = 0:00:00.045293 Roll = 0.122129 Pitch = 0.074234 Yaw =40.005817
-Running T
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
