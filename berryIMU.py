@@ -42,7 +42,7 @@ magZmin =  0
 magXmax =  0
 magYmax =  0
 magZmax =  0
-
+total_time = 0
 
 '''
 Here is an example:
@@ -170,6 +170,7 @@ file1.write('Start Time: %s\n' %(a))
 while True:
     current_time = datetime.datetime.now()
     running_time = current_time - time_prev
+    total_time = running_time + total_time
     time_prev = current_time
     
     #Read the accelerometer,gyroscope and magnetometer values
@@ -286,9 +287,9 @@ while True:
     ##################### END Tilt Compensation ########################
     
     
-    file1.write('Running Time = %s Roll = %f Pitch = %f Yaw =%f\n' %(running_time, roll, pitch, yaw))
+    file1.write('Running Time = %s Roll = %f Pitch = %f Yaw =%f\n' %(total_time, roll, pitch, yaw))
     """
-    print("Running Time: ", running_time)
+    print("Running Time: ", total_time)
     print("roll: ", roll)
     print("pitch ", pitch)
     print("yaw ", yaw)"""
